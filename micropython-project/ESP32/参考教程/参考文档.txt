@@ -1,0 +1,5 @@
+官方文档：http://docs.micropython.org/en/latest/library/
+中文文档：
+（01科技）http://docs.micropython.01studio.org/zh_CN/latest/esp32/quickref.html
+（星瞳科技）https://docs.singtown.com/micropython/zh/latest/esp32/index.html
+

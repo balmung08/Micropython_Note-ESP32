@@ -1,0 +1,32 @@
+name: Merge master branch to lvgl_javascript
+on:
+  push:
+    branches:
+      - 'master'
+jobs:
+  merge-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for Unix port build to succeed
+        uses: fountainhead/action-wait-for-check@v1.0.0
+        id: wait-for-build
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          checkName: build
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+      - name: Skip merge
+        run: exit 1
+        if: steps.wait-for-build.outputs.conclusion == 'failure'
+      - uses: actions/checkout@master
+      - name: Merge to lvgl_javascript branch
+        uses: devmasx/merge-branch@v1.1.0
+        with:
+          type: now
+          target_branch: 'lvgl_javascript_v8'
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - name: Trigger Javascript port build
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: Build Javascript v8 port
+          token: ${{ secrets.LVGL_BOT_TOKEN }}

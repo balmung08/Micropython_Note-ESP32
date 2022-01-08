@@ -1,0 +1,4377 @@
+{plotter:0.000000,1.000000,1.000000,1.000000,0.000000,1.576586}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.036 A}
+{plotter:0.257287,0.966335,1.244126,0.729553,0.358419,1.896916}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.013 A}
+{plotter:0.497250,0.867607,1.444954,0.450453,0.806954,1.507171}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.010 A}
+{plotter:0.703734,0.710463,1.587358,0.179889,1.069754,1.580927}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.008 A}
+{plotter:0.862836,0.505484,1.659121,-0.066551,1.153860,0.855522}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.034 A}
+{plotter:0.963843,0.266471,1.651831,-0.275855,1.337745,0.936422}
+{voltage:the vol is 3.372 V}
+{current:the cur is 0.033 A}
+{plotter:0.999955,0.009516,1.561536,-0.438373,1.231285,0.429258}
+{voltage:the vol is 3.381 V}
+{current:the cur is 0.012 A}
+{plotter:0.968740,-0.248080,1.389133,-0.548346,1.348684,0.116979}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.034 A}
+{plotter:0.872300,-0.488972,1.140440,-0.604159,1.508124,-0.350446}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.028 A}
+{plotter:0.717128,-0.696942,0.825957,-0.608298,1.548550,-0.642519}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.012 A}
+{plotter:0.513672,-0.857987,0.460326,-0.567018,0.768809,-0.899246}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.027 A}
+{plotter:0.275630,-0.961264,0.061513,-0.489748,0.344255,-1.164821}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.043 A}
+{plotter:0.019031,-0.999819,-0.350222,-0.388284,0.769766,-1.126686}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.026 A}
+{plotter:-0.238850,-0.971057,-0.753519,-0.275819,0.372289,-1.257425}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.030 A}
+{plotter:-0.480649,-0.876913,-1.127187,-0.165890,-0.433643,-0.985949}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.007 A}
+{plotter:-0.690086,-0.723727,-1.451476,-0.071304,-0.623035,-1.132597}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.037 A}
+{plotter:-0.853060,-0.521813,-1.709261,-0.003142,-0.447844,-0.733701}
+{voltage:the vol is 3.318 V}
+{current:the cur is 0.041 A}
+{plotter:-0.958597,-0.284765,-1.887074,0.030121,-0.620256,-0.516381}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.002 A}
+{plotter:-0.999593,-0.028544,-1.975905,0.023280,-0.802633,-0.226208}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.039 A}
+{plotter:-0.973285,0.229599,-1.971736,-0.025165,-0.926518,0.162653}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.032 A}
+{plotter:-0.881447,0.472283,-1.875756,-0.112861,-0.967812,0.003759}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.046 A}
+{plotter:-0.730261,0.683168,-1.694256,-0.233733,-0.853926,-0.168267}
+{voltage:the vol is 3.337 V}
+{current:the cur is 0.030 A}
+{plotter:-0.529907,0.848056,-1.438215,-0.378400,-0.817525,0.736648}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.000 A}
+{plotter:-0.293874,0.955844,-1.122587,-0.534838,-0.396545,0.756652}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.005 A}
+{plotter:-0.038055,0.999276,-0.765360,-0.689250,-0.102671,0.781996}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.036 A}
+{plotter:0.220326,0.975426,-0.386427,-0.827080,-0.019448,0.924522}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.011 A}
+{plotter:0.463873,0.885902,-0.006358,-0.934105,-0.046713,0.753961}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.014 A}
+{plotter:0.676188,0.736729,0.354855,-0.997520,0.449005,0.691384}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.013 A}
+{plotter:0.842975,0.537953,0.678999,-1.006950,0.395458,0.508428}
+{voltage:the vol is 3.318 V}
+{current:the cur is 0.029 A}
+{plotter:0.953004,0.302957,0.950701,-0.955307,0.087990,0.300826}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.044 A}
+{plotter:0.998868,0.047562,1.158299,-0.839438,0.315833,0.088394}
+{voltage:the vol is 3.329 V}
+{current:the cur is 0.007 A}
+{plotter:0.977479,-0.211034,1.294446,-0.660511,0.079146,-0.095834}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.036 A}
+{plotter:0.890276,-0.455422,1.356437,-0.424114,0.054878,-0.056296}
+{voltage:the vol is 3.325 V}
+{current:the cur is 0.024 A}
+{plotter:0.743130,-0.669147,1.346216,-0.140045,0.151258,-0.637489}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.035 A}
+{plotter:0.545951,-0.837817,1.270087,0.178186,0.073354,-0.126234}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.015 A}
+{plotter:0.312012,-0.950078,1.138138,0.514114,-0.081123,-0.837682}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.044 A}
+{plotter:0.057065,-0.998370,0.963437,0.849306,-0.146704,-0.559582}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.007 A}
+{plotter:-0.201723,-0.979443,0.761037,1.164483,-0.279307,-0.200320}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.004 A}
+{plotter:-0.446930,-0.894569,0.546877,1.440737,-0.490282,-0.027934}
+{voltage:the vol is 3.338 V}
+{current:the cur is 0.039 A}
+{plotter:-0.662045,-0.749464,0.336652,1.660741,-0.612832,-0.302524}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.047 A}
+{plotter:-0.832584,-0.553898,0.144714,1.809883,-0.732881,0.190700}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.008 A}
+{plotter:-0.947066,-0.321039,-0.016889,1.877243,-0.856428,0.014361}
+{voltage:the vol is 3.379 V}
+{current:the cur is 0.041 A}
+{plotter:-0.997782,-0.066563,-0.139210,1.856354,-0.773832,0.740259}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.001 A}
+{plotter:-0.981318,0.192394,-0.216950,1.745686,-0.385555,0.323237}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.005 A}
+{plotter:-0.898781,0.438397,-0.248736,1.548827,-0.577240,0.473174}
+{voltage:the vol is 3.337 V}
+{current:the cur is 0.006 A}
+{plotter:-0.755730,0.654883,-0.237118,1.274343,-0.425359,1.079703}
+{voltage:the vol is 3.394 V}
+{current:the cur is 0.013 A}
+{plotter:-0.561796,0.827276,-0.188267,0.935325,0.253943,1.174517}
+{voltage:the vol is 3.371 V}
+{current:the cur is 0.002 A}
+{plotter:-0.330036,0.943968,-0.111422,0.548650,-0.247039,0.985527}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.029 A}
+{plotter:-0.076055,0.997104,-0.018110,0.134000,0.513364,1.026892}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.036 A}
+{plotter:0.183047,0.983104,0.078797,-0.287297,0.294955,0.944563}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.018 A}
+{plotter:0.429824,0.902913,0.166124,-0.693525,1.221538,0.787106}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.027 A}
+{plotter:0.647662,0.761928,0.231452,-1.063872,1.475263,0.544595}
+{voltage:the vol is 3.319 V}
+{current:the cur is 0.044 A}
+{plotter:0.821892,0.569643,0.264128,-1.379657,1.306664,0.449909}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.048 A}
+{plotter:0.940785,0.339004,0.256147,-1.625423,1.013724,0.068968}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.044 A}
+{plotter:0.996335,0.085540,0.202844,-1.789825,1.019272,0.050354}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.049 A}
+{plotter:0.984802,-0.173683,0.103344,-1.866259,1.193628,-0.565897}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.040 A}
+{plotter:0.906962,-0.421213,-0.039262,-1.853186,0.907663,-0.674178}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.005 A}
+{plotter:0.768057,-0.640382,-0.218028,-1.754141,0.920392,-1.229739}
+{voltage:the vol is 3.400 V}
+{current:the cur is 0.023 A}
+{plotter:0.577438,-0.816434,-0.422551,-1.577428,0.580229,-1.241034}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.041 A}
+{plotter:0.347941,-0.937516,-0.639633,-1.335515,0.201931,-1.550700}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.030 A}
+{plotter:0.095017,-0.995476,-0.854147,-1.044181,0.077975,-1.897423}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.050 A}
+{plotter:-0.164304,-0.986410,-1.050075,-0.721466,-0.464149,-1.102541}
+{voltage:the vol is 3.339 V}
+{current:the cur is 0.040 A}
+{plotter:-0.412563,-0.910929,-1.211626,-0.386500,-0.727930,-1.300840}
+{voltage:the vol is 3.371 V}
+{current:the cur is 0.027 A}
+{plotter:-0.633044,-0.774116,-1.324367,-0.058279,-0.957327,-0.927647}
+{voltage:the vol is 3.389 V}
+{current:the cur is 0.009 A}
+{plotter:-0.810902,-0.585181,-1.376289,0.245516,-0.964027,-1.055856}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.003 A}
+{plotter:-0.934163,-0.356847,-1.358731,0.509595,-1.402072,-0.661950}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.035 A}
+{plotter:-0.994526,-0.104486,-1.267101,0.721952,-1.323655,-0.239654}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.040 A}
+{plotter:-0.987929,0.154910,-1.101335,0.874522,-1.519042,0.148622}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.004 A}
+{plotter:-0.914814,0.403876,-0.866068,0.963560,-1.617734,0.447708}
+{voltage:the vol is 3.350 V}
+{current:the cur is 0.024 A}
+{plotter:-0.780105,0.625649,-0.570489,0.989721,-1.292048,0.789436}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.014 A}
+{plotter:-0.592871,0.805297,-0.227903,0.957840,-1.319599,0.874065}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.029 A}
+{plotter:-0.365720,0.930725,0.144995,0.876435,-1.053085,1.281961}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.037 A}
+{plotter:-0.113945,0.993487,0.529073,0.756963,-0.421669,1.428491}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.016 A}
+{plotter:0.145502,0.989358,0.903898,0.612894,0.110333,1.416177}
+{voltage:the vol is 3.362 V}
+{current:the cur is 0.002 A}
+{plotter:0.395152,0.918616,1.248965,0.458660,0.207301,1.694856}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.014 A}
+{plotter:0.618197,0.786023,1.544953,0.308558,0.407132,1.314551}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.025 A}
+{plotter:0.799619,0.600508,1.774924,0.175686,0.758867,0.948310}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.030 A}
+{plotter:0.927203,0.374560,1.925386,0.070981,0.896289,0.627708}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.001 A}
+{plotter:0.992358,0.123394,1.987146,0.002431,0.995183,0.849622}
+{voltage:the vol is 3.389 V}
+{current:the cur is 0.042 A}
+{plotter:0.990698,-0.136081,1.955907,-0.025488,1.113597,0.022603}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.043 A}
+{plotter:0.922334,-0.386393,1.832559,-0.012110,1.209284,0.453468}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.024 A}
+{plotter:0.791870,-0.610690,1.623152,0.039411,1.319324,-0.513601}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.044 A}
+{plotter:0.608090,-0.793868,1.338548,0.122369,1.137185,-0.372652}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.047 A}
+{plotter:0.383366,-0.923596,0.993775,0.227042,0.484290,-0.883284}
+{voltage:the vol is 3.329 V}
+{current:the cur is 0.024 A}
+{plotter:0.132831,-0.991139,0.607123,0.341460,0.950974,-0.861200}
+{voltage:the vol is 3.338 V}
+{current:the cur is 0.019 A}
+{plotter:-0.126647,-0.991948,0.199043,0.452338,0.513029,-0.792430}
+{voltage:the vol is 3.371 V}
+{current:the cur is 0.004 A}
+{plotter:-0.377599,-0.925969,-0.209081,0.546116,-0.112275,-0.866461}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.000 A}
+{plotter:-0.603127,-0.797646,-0.596218,0.610035,0.114408,-0.796741}
+{voltage:the vol is 3.300 V}
+{current:the cur is 0.018 A}
+{plotter:-0.788046,-0.615616,-0.942928,0.633164,0.083718,-0.669922}
+{voltage:the vol is 3.388 V}
+{current:the cur is 0.003 A}
+{plotter:-0.919906,-0.392138,-1.232502,0.607310,-0.061162,-0.555777}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.049 A}
+{plotter:-0.989830,-0.142257,-1.451912,0.527748,-0.566480,-0.173253}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.021 A}
+{plotter:-0.993108,0.117202,-1.592514,0.393702,-0.489639,-0.242181}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.001 A}
+{plotter:-0.929521,0.368770,-1.650473,0.208569,-0.824051,0.182124}
+{voltage:the vol is 3.304 V}
+{current:the cur is 0.040 A}
+{plotter:-0.803349,0.595509,-1.626871,-0.020173,-0.600946,0.530290}
+{voltage:the vol is 3.362 V}
+{current:the cur is 0.048 A}
+{plotter:-0.623088,0.782152,-1.527503,-0.281328,-0.499637,-0.081193}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.032 A}
+{plotter:-0.400874,0.916133,-1.362378,-0.560630,-0.378793,0.702482}
+{voltage:the vol is 3.352 V}
+{current:the cur is 0.024 A}
+{plotter:-0.151670,0.988431,-1.144954,-0.841615,-0.085142,0.595022}
+{voltage:the vol is 3.395 V}
+{current:the cur is 0.025 A}
+{plotter:0.107747,0.994178,-0.891174,-1.106667,0.065807,0.912416}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.028 A}
+{plotter:0.359908,0.932988,-0.618356,-1.338172,0.330063,0.340870}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.012 A}
+{plotter:0.587837,0.808979,-0.344021,-1.519695,0.317361,0.451189}
+{voltage:the vol is 3.348 V}
+{current:the cur is 0.026 A}
+{plotter:0.776187,0.630502,-0.084737,-1.637112,0.344478,0.135156}
+{voltage:the vol is 3.346 V}
+{current:the cur is 0.038 A}
+{plotter:0.912277,0.409574,0.144947,-1.679607,0.798027,0.386015}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.028 A}
+{plotter:0.986943,0.161069,0.333405,-1.640482,0.492019,0.104026}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.010 A}
+{plotter:0.995159,-0.098281,0.472614,-1.517704,0.672817,-0.218253}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.040 A}
+{plotter:0.936370,-0.351014,0.558573,-1.314168,0.791187,-0.408086}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.005 A}
+{plotter:0.814536,-0.580113,0.591430,-1.037642,0.609207,-0.635292}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.009 A}
+{plotter:0.637860,-0.770153,0.575318,-0.700402,0.407592,-0.774674}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.042 A}
+{plotter:0.418236,-0.908338,0.517904,-0.318568,-0.016673,-0.829731}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.042 A}
+{plotter:0.170453,-0.985366,0.429708,0.088802,-0.597431,-0.948171}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.000 A}
+{plotter:-0.088807,-0.996049,0.323211,0.500825,-0.130880,-0.995848}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.008 A}
+{plotter:-0.342087,-0.939668,0.211848,0.896023,-0.933038,-0.407608}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.005 A}
+{plotter:-0.572335,-0.820020,0.108938,1.253609,-1.093158,-0.751512}
+{voltage:the vol is 3.322 V}
+{current:the cur is 0.018 A}
+{plotter:-0.764048,-0.645160,0.026631,1.554727,-1.250757,-0.357405}
+{voltage:the vol is 3.332 V}
+{current:the cur is 0.005 A}
+{plotter:-0.904317,-0.426861,-0.025044,1.783591,-1.082070,0.128310}
+{voltage:the vol is 3.348 V}
+{current:the cur is 0.044 A}
+{plotter:-0.983699,-0.179822,-0.038975,1.928423,-1.303452,-0.174575}
+{voltage:the vol is 3.381 V}
+{current:the cur is 0.027 A}
+{plotter:-0.996849,0.079324,-0.011541,1.982157,-1.158296,0.413644}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.010 A}
+{plotter:-0.942881,0.333130,0.057077,1.942838,-0.947942,0.872827}
+{voltage:the vol is 3.352 V}
+{current:the cur is 0.012 A}
+{plotter:-0.825429,0.564506,0.162858,1.813716,-0.802906,1.234865}
+{voltage:the vol is 3.339 V}
+{current:the cur is 0.024 A}
+{plotter:-0.652401,0.757874,0.298202,1.603005,-0.470762,1.175835}
+{voltage:the vol is 3.300 V}
+{current:the cur is 0.030 A}
+{plotter:-0.435447,0.900214,0.452452,1.323346,-0.222605,1.733837}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.030 A}
+{plotter:-0.189175,0.981943,0.612649,0.990998,0.072521,1.334073}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.032 A}
+{plotter:0.069835,0.997559,0.764478,0.624808,0.226628,0.998873}
+{voltage:the vol is 3.348 V}
+{current:the cur is 0.002 A}
+{plotter:0.324143,0.946008,0.893322,0.245037,0.649997,1.286731}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.029 A}
+{plotter:0.556626,0.830763,0.985359,-0.127892,1.272875,1.138506}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.012 A}
+{plotter:0.751631,0.659583,1.028635,-0.474628,1.184956,0.935674}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.002 A}
+{plotter:0.896030,0.443994,1.014012,-0.778048,1.839830,0.551364}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.032 A}
+{plotter:0.980099,0.198510,0.935953,-1.024244,1.169343,0.196454}
+{voltage:the vol is 3.300 V}
+{current:the cur is 0.046 A}
+{plotter:0.998178,-0.060339,0.793068,-1.203288,1.286868,-0.061259}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.018 A}
+{plotter:0.949050,-0.315126,0.588373,-1.309726,1.709702,-0.472960}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.039 A}
+{plotter:0.836023,-0.548695,0.329273,-1.342772,1.571934,-0.692073}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.025 A}
+{plotter:0.666706,-0.745321,0.027222,-1.306190,0.892723,-1.193820}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.007 A}
+{plotter:0.452500,-0.891764,-0.302886,-1.207887,0.965953,-1.467520}
+{voltage:the vol is 3.318 V}
+{current:the cur is 0.049 A}
+{plotter:0.207828,-0.978165,-0.643578,-1.059234,0.532965,-1.321565}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.047 A}
+{plotter:-0.050838,-0.998707,-0.975854,-0.874178,0.026628,-1.644329}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.007 A}
+{plotter:-0.306080,-0.952006,-1.280358,-0.668197,-0.258015,-1.886530}
+{voltage:the vol is 3.339 V}
+{current:the cur is 0.007 A}
+{plotter:-0.540715,-0.841206,-1.538610,-0.457181,-0.530797,-1.553471}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.045 A}
+{plotter:-0.738943,-0.673768,-1.734190,-0.256305,-0.781662,-0.749641}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.024 A}
+{plotter:-0.887418,-0.460966,-1.853821,-0.078985,-1.059652,-0.997122}
+{voltage:the vol is 3.375 V}
+{current:the cur is 0.024 A}
+{plotter:-0.976143,-0.217126,-1.888266,0.064021,-1.078439,-0.964957}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.012 A}
+{plotter:-0.999145,0.041332,-1.832978,0.165313,-1.000662,-0.348012}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.045 A}
+{plotter:-0.954875,0.297007,-1.688471,0.221279,-1.605840,0.073416}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.017 A}
+{plotter:-0.846313,0.532685,-1.460363,0.232264,-1.587141,0.409602}
+{voltage:the vol is 3.362 V}
+{current:the cur is 0.047 A}
+{plotter:-0.680769,0.732498,-1.159111,0.202428,-0.793761,0.726907}
+{voltage:the vol is 3.391 V}
+{current:the cur is 0.014 A}
+{plotter:-0.469389,0.882991,-0.799431,0.139348,-0.717200,0.672045}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.042 A}
+{plotter:-0.226406,0.974033,-0.399461,0.053350,-0.817016,0.847977}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.029 A}
+{plotter:0.031822,0.999494,0.020308,-0.043336,-0.306636,0.998871}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.030 A}
+{plotter:0.287907,0.957658,0.438238,-0.137577,-0.330522,0.975170}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.042 A}
+{plotter:0.524608,0.851344,0.832825,-0.216390,-0.252512,1.154210}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.042 A}
+{plotter:0.725986,0.687709,1.183979,-0.267994,0.594679,1.101072}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.026 A}
+{plotter:0.878485,0.477771,1.474197,-0.282772,0.503960,0.913970}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.017 A}
+{plotter:0.971835,0.235664,1.689587,-0.254082,0.840403,0.734216}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.013 A}
+{plotter:0.999751,-0.022310,1.820652,-0.178851,0.925141,0.395844}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.013 A}
+{plotter:0.960355,-0.278781,1.862796,-0.057913,0.800123,0.103518}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.042 A}
+{plotter:0.856298,-0.516483,1.816526,0.103931,0.629795,-0.349797}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.045 A}
+{plotter:0.694586,-0.719409,1.687328,0.298155,0.626541,-0.312551}
+{voltage:the vol is 3.346 V}
+{current:the cur is 0.042 A}
+{plotter:0.486109,-0.873898,1.485233,0.513015,0.522666,-0.258239}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.002 A}
+{plotter:0.244901,-0.969548,1.224110,0.734307,0.377485,-0.916504}
+{voltage:the vol is 3.338 V}
+{current:the cur is 0.037 A}
+{plotter:-0.012795,-0.999918,0.920724,0.946314,0.123440,-0.286481}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.004 A}
+{plotter:-0.269630,-0.962964,0.593628,1.132888,-0.053627,-0.829498}
+{voltage:the vol is 3.352 V}
+{current:the cur is 0.045 A}
+{plotter:-0.508311,-0.861174,0.261964,1.278586,-0.160291,-0.699770}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.032 A}
+{plotter:-0.712767,-0.701401,-0.055750,1.369785,-0.252716,-0.144439}
+{voltage:the vol is 3.355 V}
+{current:the cur is 0.048 A}
+{plotter:-0.869233,-0.494403,-0.342767,1.395699,-0.595547,-0.250956}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.041 A}
+{plotter:-0.967174,-0.254116,-0.585116,1.349232,-0.047350,-0.187341}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.049 A}
+{plotter:-0.999995,0.003279,-0.772401,1.227588,-0.900738,0.192351}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.011 A}
+{plotter:-0.965486,0.260454,-0.898348,1.032624,-0.246265,0.278827}
+{voltage:the vol is 3.304 V}
+{current:the cur is 0.004 A}
+{plotter:-0.865972,0.500093,-0.961056,0.770888,-0.314570,0.412263}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.017 A}
+{plotter:-0.708152,0.706060,-0.962955,0.453348,-0.068084,0.656440}
+{voltage:the vol is 3.325 V}
+{current:the cur is 0.045 A}
+{plotter:-0.502652,0.864489,-0.910469,0.094835,0.024505,0.546047}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.041 A}
+{plotter:-0.263309,0.964712,-0.813404,-0.286787,0.530531,0.776232}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.025 A}
+{plotter:-0.006237,0.999981,-0.684131,-0.671658,0.277129,0.575704}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.011 A}
+{plotter:0.251255,0.967921,-0.536596,-1.039106,0.633364,0.540562}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.048 A}
+{plotter:0.491830,0.870691,-0.385240,-1.368900,0.833875,0.655245}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.021 A}
+{plotter:0.699290,0.714838,-0.243914,-1.642493,0.824219,0.025203}
+{voltage:the vol is 3.398 V}
+{current:the cur is 0.031 A}
+{plotter:0.859667,0.510855,-0.124844,-1.844177,0.884841,-0.467797}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.031 A}
+{plotter:0.962162,0.272477,-0.037742,-1.962067,0.968899,-0.001706}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.047 A}
+{plotter:0.999876,0.015752,0.010897,-1.988855,0.914556,-0.400400}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.004 A}
+{plotter:0.970268,-0.242033,0.018245,-1.922291,0.722333,-1.105295}
+{voltage:the vol is 3.355 V}
+{current:the cur is 0.047 A}
+{plotter:0.875332,-0.483522,-0.014676,-1.765341,0.511490,-0.951247}
+{voltage:the vol is 3.391 V}
+{current:the cur is 0.017 A}
+{plotter:0.721460,-0.692456,-0.083107,-1.526028,0.169936,-0.933897}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.018 A}
+{plotter:0.519013,-0.854766,-0.178936,-1.216962,0.379114,-1.299071}
+{voltage:the vol is 3.319 V}
+{current:the cur is 0.006 A}
+{plotter:0.281620,-0.959526,-0.291340,-0.854580,-0.068454,-1.104519}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.013 A}
+{plotter:0.025266,-0.999681,-0.407624,-0.458156,-0.502831,-1.395765}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.046 A}
+{plotter:-0.232789,-0.972527,-0.514215,-0.048637,-0.504466,-1.115632}
+{voltage:the vol is 3.393 V}
+{current:the cur is 0.026 A}
+{plotter:-0.475171,-0.879894,-0.597724,0.352617,-0.648511,-0.939108}
+{voltage:the vol is 3.371 V}
+{current:the cur is 0.006 A}
+{plotter:-0.685559,-0.728017,-0.646015,0.725103,-1.072749,-0.720321}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.035 A}
+{plotter:-0.849789,-0.527123,-0.649189,1.050389,-1.473764,-0.491181}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.041 A}
+{plotter:-0.956803,-0.290738,-0.600426,1.313180,-1.133309,0.026942}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.033 A}
+{plotter:-0.999395,-0.034778,-0.496622,1.502168,-1.280007,0.435528}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.010 A}
+{plotter:-0.974698,0.223524,-0.338762,1.610635,-1.332153,0.428315}
+{voltage:the vol is 3.380 V}
+{current:the cur is 0.043 A}
+{plotter:-0.884376,0.466776,-0.132015,1.636736,-1.278738,1.055425}
+{voltage:the vol is 3.316 V}
+{current:the cur is 0.029 A}
+{plotter:-0.734508,0.678600,0.114473,1.583489,-0.844395,1.246825}
+{voltage:the vol is 3.372 V}
+{current:the cur is 0.005 A}
+{plotter:-0.535186,0.844734,0.388070,1.458442,-0.644977,1.286005}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.002 A}
+{plotter:-0.299830,0.953993,0.673400,1.273060,-0.452060,1.457107}
+{voltage:the vol is 3.338 V}
+{current:the cur is 0.002 A}
+{plotter:-0.044287,0.999019,0.953300,1.041873,-0.062403,1.758161}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.039 A}
+{plotter:0.214239,0.976781,1.209924,0.781447,0.256096,1.391197}
+{voltage:the vol is 3.384 V}
+{current:the cur is 0.015 A}
+{plotter:0.458339,0.888777,1.425916,0.509238,0.497173,1.111544}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.049 A}
+{plotter:0.671580,0.740932,1.585580,0.242421,1.018269,0.811309}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.009 A}
+{plotter:0.839603,0.543200,1.675970,-0.003237,0.938959,1.252913}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.018 A}
+{plotter:0.951096,0.308895,1.687814,-0.214378,1.088227,0.444920}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.002 A}
+{plotter:0.998552,0.053791,1.616231,-0.380874,1.080539,0.097921}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.015 A}
+{plotter:0.978776,-0.204934,1.461157,-0.496395,1.325316,0.200689}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.009 A}
+{plotter:0.893099,-0.449861,1.227485,-0.558712,1.185059,-0.248843}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.033 A}
+{plotter:0.747289,-0.664499,0.924879,-0.569699,1.285158,-0.552510}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.027 A}
+{plotter:0.551165,-0.834396,0.567285,-0.535046,0.569169,-0.822056}
+{voltage:the vol is 3.400 V}
+{current:the cur is 0.008 A}
+{plotter:0.317931,-0.948114,0.172156,-0.463706,1.062690,-0.993768}
+{voltage:the vol is 3.341 V}
+{current:the cur is 0.043 A}
+{plotter:0.063291,-0.997995,-0.240542,-0.367124,0.648470,-1.156565}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.024 A}
+{plotter:-0.195611,-0.980682,-0.649504,-0.258283,0.686145,-1.043640}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.029 A}
+{plotter:-0.441342,-0.897339,-1.033349,-0.150665,-0.355994,-0.948325}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.042 A}
+{plotter:-0.657358,-0.753579,-1.371896,-0.057180,-0.566703,-1.317804}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.011 A}
+{plotter:-0.829114,-0.559080,-1.647375,0.010852,-0.423965,-0.711535}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.016 A}
+{plotter:-0.945045,-0.326939,-1.845493,0.044598,-0.906842,-1.179653}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.030 A}
+{plotter:-0.997348,-0.072785,-1.956280,0.038415,-0.845935,-0.975938}
+{voltage:the vol is 3.363 V}
+{current:the cur is 0.041 A}
+{plotter:-0.982499,0.186270,-1.974676,-0.009678,-0.971157,-0.291878}
+{voltage:the vol is 3.393 V}
+{current:the cur is 0.024 A}
+{plotter:-0.901498,0.432783,-1.900804,-0.097808,-0.918604,0.065930}
+{voltage:the vol is 3.339 V}
+{current:the cur is 0.024 A}
+{plotter:-0.759800,0.650157,-1.739933,-0.220332,-0.773952,0.383550}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.044 A}
+{plotter:-0.566945,0.823756,-1.502105,-0.368216,-0.583874,0.355448}
+{voltage:the vol is 3.306 V}
+{current:the cur is 0.047 A}
+{plotter:-0.335917,0.941892,-1.201491,-0.529657,-0.429954,0.385544}
+{voltage:the vol is 3.363 V}
+{current:the cur is 0.010 A}
+{plotter:-0.082272,0.996610,-0.855476,-0.690932,-0.493341,0.873433}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.004 A}
+{plotter:0.176912,0.984227,-0.483571,-0.837395,-0.175079,0.697655}
+{voltage:the vol is 3.381 V}
+{current:the cur is 0.031 A}
+{plotter:0.424185,0.905576,-0.106192,-0.954561,-0.083536,0.737950}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.024 A}
+{plotter:0.642897,0.765953,0.256587,-1.029207,0.105301,0.499059}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.024 A}
+{plotter:0.818324,0.574758,0.586248,-1.050399,0.274074,0.550358}
+{voltage:the vol is 3.389 V}
+{current:the cur is 0.018 A}
+{plotter:0.938652,0.344865,0.866920,-1.010385,0.207851,0.274476}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.002 A}
+{plotter:0.995782,0.091752,1.086280,-0.905284,0.031494,0.132512}
+{voltage:the vol is 3.341 V}
+{current:the cur is 0.016 A}
+{plotter:0.985866,-0.167538,1.236213,-0.735518,0.332470,-0.083411}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.001 A}
+{plotter:0.909571,-0.415548,1.313178,-0.505964,0.338866,-0.286732}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.032 A}
+{plotter:0.772036,-0.635579,1.318279,-0.225792,0.047986,-0.189726}
+{voltage:the vol is 3.304 V}
+{current:the cur is 0.030 A}
+{plotter:0.582519,-0.812817,1.257020,0.091983,0.292996,-0.407194}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.003 A}
+{plotter:0.353781,-0.935328,1.138788,0.431225,-0.094779,-0.382659}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.013 A}
+{plotter:0.101224,-0.994864,0.976072,0.773625,0.082287,-0.458426}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.026 A}
+{plotter:-0.158149,-0.987415,0.783515,1.099813,-0.171327,-0.686613}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.001 A}
+{plotter:-0.406874,-0.913484,0.576819,1.390567,-0.440483,-0.690940}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.006 A}
+{plotter:-0.628204,-0.778049,0.371626,1.628034,-0.636990,-0.316565}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.025 A}
+{plotter:-0.807237,-0.590227,0.182414,1.796888,-0.750368,0.024608}
+{voltage:the vol is 3.375 V}
+{current:the cur is 0.003 A}
+{plotter:-0.931919,-0.362666,0.021503,1.885342,-0.862242,0.090258}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.024 A}
+{plotter:-0.993855,-0.110686,-0.101757,1.885954,-0.824934,0.484436}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.045 A}
+{plotter:-0.988876,0.148746,-0.181581,1.796170,-0.521954,0.908810}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.004 A}
+{plotter:-0.917315,0.398163,-0.216075,1.618555,-0.700850,1.046607}
+{voltage:the vol is 3.393 V}
+{current:the cur is 0.038 A}
+{plotter:-0.783991,0.620772,-0.207263,1.360720,-0.099593,1.195072}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.035 A}
+{plotter:-0.597882,0.801584,-0.160845,1.034920,-0.324017,0.922117}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.043 A}
+{plotter:-0.371518,0.928426,-0.085675,0.657360,-0.121354,1.004913}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.021 A}
+{plotter:-0.120139,0.992757,0.006985,0.247263,-0.108273,1.015271}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.043 A}
+{plotter:0.139329,0.990246,0.104388,-0.174270,0.445243,0.974601}
+{voltage:the vol is 3.343 V}
+{current:the cur is 0.005 A}
+{plotter:0.389416,0.921062,0.193330,-0.585502,0.669284,0.815380}
+{voltage:the vol is 3.359 V}
+{current:the cur is 0.036 A}
+{plotter:0.613283,0.789863,0.261213,-0.965353,1.401407,0.620968}
+{voltage:the vol is 3.349 V}
+{current:the cur is 0.008 A}
+{plotter:0.795858,0.605483,0.297072,-1.294645,0.830377,0.491088}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.015 A}
+{plotter:0.924849,0.380336,0.292474,-1.557223,1.510970,0.142725}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.044 A}
+{plotter:0.991569,0.129580,0.242251,-1.740887,1.126105,-0.022447}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.024 A}
+{plotter:0.991527,-0.129899,0.144989,-1.838066,1.244849,-0.687498}
+{voltage:the vol is 3.326 V}
+{current:the cur is 0.018 A}
+{plotter:0.924726,-0.380633,0.003249,-1.846203,1.234778,-0.615200}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.047 A}
+{plotter:0.795663,-0.605739,-0.176497,-1.767824,0.938261,-1.021786}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.010 A}
+{plotter:0.613029,-0.790061,-0.384227,-1.610285,0.624099,-1.187721}
+{voltage:the vol is 3.398 V}
+{current:the cur is 0.032 A}
+{plotter:0.389119,-0.921187,-0.606983,-1.385222,0.325989,-0.972319}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.029 A}
+{plotter:0.139010,-0.990291,-0.829720,-1.107740,0.085483,-1.836123}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.036 A}
+{plotter:-0.120458,-0.992718,-1.036318,-0.795401,-0.202824,-1.433333}
+{voltage:the vol is 3.350 V}
+{current:the cur is 0.012 A}
+{plotter:-0.371816,-0.928306,-1.210699,-0.467066,-0.397000,-1.572131}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.014 A}
+{plotter:-0.598140,-0.801392,-1.337965,-0.141685,-0.834309,-0.946074}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.046 A}
+{plotter:-0.784191,-0.620519,-1.405485,0.162897,-1.069098,-0.793045}
+{voltage:the vol is 3.359 V}
+{current:the cur is 0.033 A}
+{plotter:-0.917443,-0.397868,-1.403853,0.431033,-1.300485,-0.770198}
+{voltage:the vol is 3.349 V}
+{current:the cur is 0.021 A}
+{plotter:-0.988923,-0.148427,-1.327647,0.650200,-1.243161,-0.346470}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.011 A}
+{plotter:-0.993820,0.111006,-1.175941,0.811699,-1.025868,0.102764}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.016 A}
+{plotter:-0.931802,0.362966,-0.952527,0.911078,-1.012385,0.355542}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.003 A}
+{plotter:-0.807047,0.590487,-0.665830,0.948264,-1.177364,0.730265}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.020 A}
+{plotter:-0.627953,0.778251,-0.328512,0.927395,-0.893511,1.043505}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.003 A}
+{plotter:-0.406580,0.913615,0.043205,0.856364,-1.208242,0.956498}
+{voltage:the vol is 3.400 V}
+{current:the cur is 0.026 A}
+{plotter:-0.157831,0.987466,0.430457,0.746120,-0.641462,1.473868}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.034 A}
+{plotter:0.101544,0.994831,0.812852,0.609764,-0.514803,1.326574}
+{voltage:the vol is 3.341 V}
+{current:the cur is 0.016 A}
+{plotter:0.354082,0.935214,1.169688,0.461523,0.219491,1.417304}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.021 A}
+{plotter:0.582780,0.812630,1.481215,0.315654,0.497444,1.267893}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.015 A}
+{plotter:0.772240,0.635331,1.729856,0.185376,0.724726,0.963791}
+{voltage:the vol is 3.398 V}
+{current:the cur is 0.038 A}
+{plotter:0.909705,0.415255,1.901296,0.081887,0.879256,0.649331}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.042 A}
+{plotter:0.985919,0.167221,1.985387,0.013548,1.006326,0.797306}
+{voltage:the vol is 3.338 V}
+{current:the cur is 0.047 A}
+{plotter:0.995752,-0.092073,1.976788,-0.014717,1.171692,0.134841}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.027 A}
+{plotter:0.938541,-0.345167,1.875323,-0.001759,1.173946,0.252976}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.009 A}
+{plotter:0.818139,-0.575021,1.686010,0.049733,1.208920,-0.407443}
+{voltage:the vol is 3.394 V}
+{current:the cur is 0.018 A}
+{plotter:0.642651,-0.766159,1.418767,0.133466,1.212215,-0.712913}
+{voltage:the vol is 3.317 V}
+{current:the cur is 0.028 A}
+{plotter:0.423893,-0.905712,1.087827,0.240041,0.710850,-0.814694}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.018 A}
+{plotter:0.176595,-0.984284,0.710871,0.357680,0.413753,-0.641122}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.031 A}
+{plotter:-0.082593,-0.996583,0.307961,0.473147,0.416341,-0.914425}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.001 A}
+{plotter:-0.336220,-0.941783,-0.099667,0.572774,-0.244950,-0.887357}
+{voltage:the vol is 3.389 V}
+{current:the cur is 0.025 A}
+{plotter:-0.567210,-0.823573,-0.490884,0.643536,0.384929,-0.813424}
+{voltage:the vol is 3.341 V}
+{current:the cur is 0.012 A}
+{plotter:-0.760009,-0.649912,-0.845920,0.674099,-0.720147,-0.701938}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.034 A}
+{plotter:-0.901637,-0.432493,-1.147523,0.655752,-0.115182,-0.497455}
+{voltage:the vol is 3.337 V}
+{current:the cur is 0.045 A}
+{plotter:-0.982559,-0.185954,-1.381947,0.583170,-0.588589,-0.515111}
+{voltage:the vol is 3.322 V}
+{current:the cur is 0.022 A}
+{plotter:-0.997324,0.073106,-1.539704,0.454945,-0.522709,-0.086362}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.008 A}
+{plotter:-0.944940,0.327243,-1.616034,0.273846,-0.559106,0.174948}
+{voltage:the vol is 3.313 V}
+{current:the cur is 0.046 A}
+{plotter:-0.828934,0.559347,-1.611078,0.046789,-0.312668,0.121764}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.010 A}
+{plotter:-0.657115,0.753790,-1.529723,-0.215493,-0.181901,0.692913}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.034 A}
+{plotter:-0.441053,0.897481,-1.381157,-0.499050,-0.306766,-0.029626}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.039 A}
+{plotter:-0.195295,0.980745,-1.178149,-0.787559,-0.115356,0.216946}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.005 A}
+{plotter:0.063612,0.997975,-0.936123,-1.063347,0.072274,0.343587}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.012 A}
+{plotter:0.318236,0.948011,-0.672065,-1.308537,0.284743,0.135147}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.011 A}
+{plotter:0.551434,0.834219,-0.403368,-1.506235,0.407778,-0.112424}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.019 A}
+{plotter:0.747503,0.664258,-0.146667,-1.641674,0.631619,0.463795}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.013 A}
+{plotter:0.893243,0.449573,0.083240,-1.703247,0.652406,-0.025349}
+{voltage:the vol is 3.341 V}
+{current:the cur is 0.033 A}
+{plotter:0.978842,0.204619,0.274325,-1.683358,0.388580,-0.282073}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.043 A}
+{plotter:0.998535,-0.054113,0.418049,-1.579020,0.704779,-0.421480}
+{voltage:the vol is 3.391 V}
+{current:the cur is 0.012 A}
+{plotter:0.950997,-0.309201,0.509821,-1.392172,0.171837,-0.467335}
+{voltage:the vol is 3.371 V}
+{current:the cur is 0.041 A}
+{plotter:0.839428,-0.543470,0.549175,-1.129681,0.181651,-0.832341}
+{voltage:the vol is 3.326 V}
+{current:the cur is 0.027 A}
+{plotter:0.671341,-0.741148,0.539651,-0.803032,0.624268,-0.764591}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.022 A}
+{plotter:0.458053,-0.888925,0.488391,-0.427716,-0.207036,-0.861635}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.027 A}
+{plotter:0.213924,-0.976850,0.405492,-0.022357,0.065446,-0.801085}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.036 A}
+{plotter:-0.044608,-0.999005,0.303147,0.392363,-0.405856,-0.912010}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.026 A}
+{plotter:-0.300137,-0.953896,0.194652,0.794927,-0.753009,-0.562694}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.042 A}
+{plotter:-0.535458,-0.844562,0.093343,1.164258,-1.136235,-0.485248}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.031 A}
+{plotter:-0.734726,-0.678364,0.011534,1.480986,-1.160869,-0.147666}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.029 A}
+{plotter:-0.884526,-0.466491,-0.040448,1.728603,-1.277294,0.017668}
+{voltage:the vol is 3.346 V}
+{current:the cur is 0.045 A}
+{plotter:-0.974770,-0.223210,-0.055092,1.894448,-1.304780,-0.065585}
+{voltage:the vol is 3.343 V}
+{current:the cur is 0.007 A}
+{plotter:-0.999384,0.035100,-0.028313,1.970455,-1.099471,0.369775}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.003 A}
+{plotter:-0.956709,0.291046,0.040196,1.953614,-0.967288,1.035249}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.037 A}
+{plotter:-0.849619,0.527397,0.146879,1.846117,-0.796891,0.693292}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.040 A}
+{plotter:-0.685325,0.728238,0.284538,1.655187,-0.643118,0.944516}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.039 A}
+{plotter:-0.474887,0.880047,0.442812,1.392586,-0.344576,1.757696}
+{voltage:the vol is 3.343 V}
+{current:the cur is 0.040 A}
+{plotter:-0.232476,0.972602,0.608904,1.073856,-0.055863,1.269590}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.026 A}
+{plotter:0.025588,0.999673,0.768504,0.717328,0.213205,1.247281}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.014 A}
+{plotter:0.281929,0.959435,0.906826,0.342967,0.978769,1.104927}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.033 A}
+{plotter:0.519288,0.854599,1.009717,-0.028859,1.245793,1.006411}
+{voltage:the vol is 3.379 V}
+{current:the cur is 0.014 A}
+{plotter:0.721683,0.692223,1.064736,-0.378630,1.122499,0.797620}
+{voltage:the vol is 3.381 V}
+{current:the cur is 0.010 A}
+{plotter:0.875488,0.483240,1.062135,-0.688840,1.667318,0.596532}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.023 A}
+{plotter:0.970346,0.241721,0.995675,-0.945017,1.171673,0.267000}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.013 A}
+{plotter:0.999871,-0.016074,0.863215,-1.136527,1.501786,-0.097854}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.029 A}
+{plotter:0.962075,-0.272786,0.667031,-1.257119,1.713789,-0.555476}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.012 A}
+{plotter:0.859502,-0.511132,0.413836,-1.305168,1.648071,-0.900694}
+{voltage:the vol is 3.348 V}
+{current:the cur is 0.031 A}
+{plotter:0.699060,-0.715063,0.114502,-1.283618,1.313956,-1.270667}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.040 A}
+{plotter:0.491549,-0.870850,-0.216514,-1.199613,1.041780,-1.177503}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.024 A}
+{plotter:0.250943,-0.968002,-0.561988,-1.063875,0.557807,-1.254005}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.019 A}
+{plotter:-0.006559,-0.999978,-0.902961,-0.889844,0.149503,-1.447893}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.018 A}
+{plotter:-0.263619,-0.964627,-1.219898,-0.692660,-0.175838,-1.234143}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.016 A}
+{plotter:-0.502930,-0.864327,-1.493915,-0.488055,-0.426623,-1.820381}
+{voltage:the vol is 3.336 V}
+{current:the cur is 0.033 A}
+{plotter:-0.708379,-0.705832,-1.707986,-0.291228,-0.712861,-1.062484}
+{voltage:the vol is 3.340 V}
+{current:the cur is 0.035 A}
+{plotter:-0.866133,-0.499814,-1.848051,-0.115785,-1.029990,-0.943830}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.035 A}
+{plotter:-0.965570,-0.260144,-1.903954,0.027186,-1.059418,-0.324522}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.039 A}
+{plotter:-0.999996,-0.002957,-1.870146,0.129846,-1.447199,-0.012040}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.040 A}
+{plotter:-0.967092,0.254428,-1.746105,0.188079,-1.102398,-0.360019}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.046 A}
+{plotter:-0.869074,0.494682,-1.536445,0.201703,-1.234675,0.208544}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.011 A}
+{plotter:-0.712541,0.701630,-1.250705,0.174378,-1.087932,0.487971}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.015 A}
+{plotter:-0.508034,0.861337,-0.902824,0.113243,-1.021606,0.790866}
+{voltage:the vol is 3.375 V}
+{current:the cur is 0.033 A}
+{plotter:-0.269320,0.963051,-0.510346,0.028294,-1.111145,0.833950}
+{voltage:the vol is 3.379 V}
+{current:the cur is 0.014 A}
+{plotter:-0.012473,0.999922,-0.093391,-0.068444,-0.358148,0.920630}
+{voltage:the vol is 3.381 V}
+{current:the cur is 0.011 A}
+{plotter:0.245213,0.969469,0.326534,-0.163893,-0.303061,1.009153}
+{voltage:the vol is 3.345 V}
+{current:the cur is 0.010 A}
+{plotter:0.486390,0.873742,0.727808,-0.244971,-0.145700,1.113488}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.014 A}
+{plotter:0.694818,0.719186,1.089980,-0.299656,0.184952,0.988963}
+{voltage:the vol is 3.389 V}
+{current:the cur is 0.046 A}
+{plotter:0.856464,0.516207,1.394968,-0.317960,0.666374,0.858009}
+{voltage:the vol is 3.326 V}
+{current:the cur is 0.038 A}
+{plotter:0.960444,0.278472,1.628117,-0.292772,0.294781,0.827513}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.004 A}
+{plotter:0.999758,0.021988,1.779025,-0.220492,0.812804,0.037042}
+{voltage:the vol is 3.363 V}
+{current:the cur is 0.004 A}
+{plotter:0.971759,-0.235977,1.842108,-0.101409,0.670560,0.318819}
+{voltage:the vol is 3.331 V}
+{current:the cur is 0.039 A}
+{plotter:0.878331,-0.478053,1.816854,0.060193,0.802907,-0.453851}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.042 A}
+{plotter:0.725765,-0.687943,1.707759,0.256229,0.538522,-0.427272}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.002 A}
+{plotter:0.524334,-0.851513,1.523952,0.475284,0.518120,0.136696}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.047 A}
+{plotter:0.287599,-0.957751,1.278530,0.703332,0.406886,-0.705474}
+{voltage:the vol is 3.329 V}
+{current:the cur is 0.043 A}
+{plotter:0.031501,-0.999504,0.987661,0.924660,0.131230,-0.985876}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.026 A}
+{plotter:-0.226719,-0.973960,0.669504,1.122942,-0.144759,-0.801236}
+{voltage:the vol is 3.325 V}
+{current:the cur is 0.041 A}
+{plotter:-0.469674,-0.882840,0.343022,1.282370,-0.241023,-0.132695}
+{voltage:the vol is 3.394 V}
+{current:the cur is 0.018 A}
+{plotter:-0.681005,-0.732279,0.026772,1.388783,-0.415178,-0.051912}
+{voltage:the vol is 3.331 V}
+{current:the cur is 0.018 A}
+{plotter:-0.846485,-0.532413,-0.262255,1.430714,-0.720166,-0.056392}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.002 A}
+{plotter:-0.954971,-0.296700,-0.509667,1.400275,-0.709887,-0.023215}
+{voltage:the vol is 3.384 V}
+{current:the cur is 0.038 A}
+{plotter:-0.999159,-0.041010,-0.704501,1.293816,-0.403347,0.035867}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.030 A}
+{plotter:-0.976074,0.217441,-0.839818,1.112329,-0.145851,0.337578}
+{voltage:the vol is 3.380 V}
+{current:the cur is 0.033 A}
+{plotter:-0.887270,0.461251,-0.913003,0.861536,-0.485932,0.458152}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.048 A}
+{plotter:-0.738726,0.674006,-0.925771,0.551681,-0.604326,0.617979}
+{voltage:the vol is 3.337 V}
+{current:the cur is 0.008 A}
+{plotter:-0.540444,0.841380,-0.883877,0.197011,-0.327111,0.504277}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.041 A}
+{plotter:-0.305774,0.952104,-0.796556,-0.185008,0.065559,0.479730}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.032 A}
+{plotter:-0.050516,0.998723,-0.675729,-0.574696,0.429113,0.856230}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.014 A}
+{plotter:0.208143,0.978099,-0.535044,-0.951329,0.447663,0.306652}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.009 A}
+{plotter:0.452787,0.891619,-0.388812,-1.294386,0.789669,0.277069}
+{voltage:the vol is 3.363 V}
+{current:the cur is 0.005 A}
+{plotter:0.666946,0.745106,-0.250914,-1.584805,0.790607,0.655721}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.030 A}
+{plotter:0.836199,0.548426,-0.133762,-1.806160,1.019927,0.390915}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.025 A}
+{plotter:0.949151,0.314820,-0.047381,-1.945683,1.019979,0.224920}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.006 A}
+{plotter:0.998197,0.060018,0.001325,-1.995070,0.921552,-0.880268}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.034 A}
+{plotter:0.980035,-0.198826,0.009060,-1.951009,0.906478,-0.444095}
+{voltage:the vol is 3.384 V}
+{current:the cur is 0.030 A}
+{plotter:0.895887,-0.444282,-0.023632,-1.815406,0.568563,-1.182294}
+{voltage:the vol is 3.381 V}
+{current:the cur is 0.043 A}
+{plotter:0.751419,-0.659825,-0.092442,-1.595280,0.490973,-1.215918}
+{voltage:the vol is 3.332 V}
+{current:the cur is 0.025 A}
+{plotter:0.556358,-0.830942,-0.189633,-1.302349,0.034581,-1.556739}
+{voltage:the vol is 3.331 V}
+{current:the cur is 0.003 A}
+{plotter:0.323838,-0.946113,-0.304648,-0.952324,-0.061239,-1.317810}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.020 A}
+{plotter:0.069514,-0.997581,-0.424924,-0.563952,-0.391262,-1.000373}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.020 A}
+{plotter:-0.189491,-0.981883,-0.536866,-0.157885,-0.855117,-1.214127}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.008 A}
+{plotter:-0.435737,-0.900074,-0.626907,0.244566,-0.994200,-0.940721}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.005 A}
+{plotter:-0.652645,-0.757664,-0.682578,0.622712,-1.499978,-0.775609}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.034 A}
+{plotter:-0.825611,-0.564240,-0.693519,0.957702,-1.647472,-0.467498}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.004 A}
+{plotter:-0.942988,-0.332827,-0.652348,1.233628,-1.113931,-0.169301}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.019 A}
+{plotter:-0.996874,-0.079004,-0.555336,1.438413,-1.393345,0.018879}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.007 A}
+{plotter:-0.983641,0.180139,-0.402826,1.564456,-1.680914,0.301931}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.008 A}
+{plotter:-0.904180,0.427152,-0.199376,1.608983,-1.354953,0.548337}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.044 A}
+{plotter:-0.763840,0.645405,0.046401,1.574081,-0.984313,0.884074}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.004 A}
+{plotter:-0.572071,0.820204,0.322280,1.466423,-0.909489,1.580895}
+{voltage:the vol is 3.343 V}
+{current:the cur is 0.006 A}
+{plotter:-0.341785,0.939778,0.613137,1.296707,-0.387889,1.825224}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.035 A}
+{plotter:-0.088486,0.996077,0.901871,1.078844,-0.144396,1.854899}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.001 A}
+{plotter:0.170770,0.985311,1.170496,0.828955,0.176434,1.437746}
+{voltage:the vol is 3.341 V}
+{current:the cur is 0.043 A}
+{plotter:0.418529,0.908204,1.401308,0.564251,0.551435,1.267369}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.040 A}
+{plotter:0.638108,0.769947,1.578073,0.301858,0.687683,1.667113}
+{voltage:the vol is 3.391 V}
+{current:the cur is 0.020 A}
+{plotter:0.814723,0.579850,1.687133,0.057687,1.187132,1.312029}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.001 A}
+{plotter:0.936483,0.350712,1.718376,-0.154591,1.431968,0.651352}
+{voltage:the vol is 3.325 V}
+{current:the cur is 0.008 A}
+{plotter:0.995190,0.097961,1.665984,-0.324396,1.022351,0.482971}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.035 A}
+{plotter:0.986891,-0.161386,1.528931,-0.444852,1.508153,0.009942}
+{voltage:the vol is 3.313 V}
+{current:the cur is 0.042 A}
+{plotter:0.912145,-0.409867,1.311163,-0.513127,1.038240,-0.125354}
+{voltage:the vol is 3.384 V}
+{current:the cur is 0.040 A}
+{plotter:0.775985,-0.630752,1.021478,-0.530491,1.512582,-0.551426}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.020 A}
+{plotter:0.587577,-0.809168,0.673084,-0.502070,1.102941,-0.727988}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.022 A}
+{plotter:0.359608,-0.933104,0.282879,-0.436337,0.750219,-1.008615}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.003 A}
+{plotter:0.107427,-0.994213,-0.129520,-0.344373,0.478015,-1.193673}
+{voltage:the vol is 3.316 V}
+{current:the cur is 0.042 A}
+{plotter:-0.151988,-0.988382,-0.542915,-0.238939,0.024248,-1.188099}
+{voltage:the vol is 3.325 V}
+{current:the cur is 0.002 A}
+{plotter:-0.401169,-0.916004,-0.935786,-0.133449,0.197492,-1.320292}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.035 A}
+{plotter:-0.623339,-0.781952,-1.287576,-0.040897,0.059713,-0.783735}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.039 A}
+{plotter:-0.803540,-0.595250,-1.579912,0.027169,-0.555543,-0.930895}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.017 A}
+{plotter:-0.929639,-0.368471,-1.797711,0.061567,-0.880294,-0.650587}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.042 A}
+{plotter:-0.993146,-0.116883,-1.930069,0.056222,-0.811845,-0.280695}
+{voltage:the vol is 3.380 V}
+{current:the cur is 0.020 A}
+{plotter:-0.989784,0.142575,-1.970898,0.008670,-0.814187,-0.459202}
+{voltage:the vol is 3.375 V}
+{current:the cur is 0.023 A}
+{plotter:-0.919780,0.392434,-1.919261,-0.079700,-0.895693,-0.277221}
+{voltage:the vol is 3.398 V}
+{current:the cur is 0.013 A}
+{plotter:-0.787848,0.615870,-1.779387,-0.203691,-0.797371,0.216827}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.039 A}
+{plotter:-0.602870,0.797840,-1.560369,-0.354629,-0.846034,0.389148}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.044 A}
+{plotter:-0.377301,0.926091,-1.275558,-0.520956,-0.811541,0.584903}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.026 A}
+{plotter:-0.126328,0.991989,-0.941699,-0.689043,-0.308824,0.304073}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.026 A}
+{plotter:0.133150,0.991096,-0.577874,-0.844174,-0.505467,0.447157}
+{voltage:the vol is 3.352 V}
+{current:the cur is 0.022 A}
+{plotter:0.383664,0.923473,-0.204298,-0.971625,0.231844,0.394546}
+{voltage:the vol is 3.300 V}
+{current:the cur is 0.045 A}
+{plotter:0.608345,0.793673,0.158922,-1.057768,0.352538,0.652936}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.018 A}
+{plotter:0.792067,0.610435,0.493011,-1.091122,-0.060767,0.469682}
+{voltage:the vol is 3.393 V}
+{current:the cur is 0.004 A}
+{plotter:0.922458,0.386096,0.781642,-1.063275,0.696001,0.253136}
+{voltage:the vol is 3.398 V}
+{current:the cur is 0.043 A}
+{plotter:0.990741,0.135762,1.011871,-0.969612,0.695541,0.141500}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.045 A}
+{plotter:0.992318,-0.123713,1.174837,-0.809799,0.916673,0.058187}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.026 A}
+{plotter:0.927082,-0.374859,1.266186,-0.587978,0.148288,-0.231795}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.005 A}
+{plotter:0.799426,-0.600765,1.286189,-0.312662,0.698922,-0.549009}
+{voltage:the vol is 3.394 V}
+{current:the cur is 0.043 A}
+{plotter:0.617944,-0.786222,1.239555,0.003667,0.015036,-0.389982}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.002 A}
+{plotter:0.394857,-0.918743,1.134954,0.345240,0.124683,-0.392745}
+{voltage:the vol is 3.338 V}
+{current:the cur is 0.043 A}
+{plotter:0.145184,-0.989405,0.984286,0.693919,-0.201069,-0.950173}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.002 A}
+{plotter:-0.114265,-0.993450,0.801757,1.030286,-0.405975,-0.830944}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.006 A}
+{plotter:-0.366020,-0.930607,0.602811,1.334850,-0.539700,-0.317737}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.018 A}
+{plotter:-0.593130,-0.805106,0.403008,1.589268,-0.654174,-0.248957}
+{voltage:the vol is 3.331 V}
+{current:the cur is 0.031 A}
+{plotter:-0.780306,-0.625398,0.216920,1.777532,-0.732848,-0.328090}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.039 A}
+{plotter:-0.914944,-0.403582,0.057122,1.887009,-0.696588,0.537721}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.010 A}
+{plotter:-0.987978,-0.154592,-0.066659,1.909298,-0.874779,0.360067}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.044 A}
+{plotter:-0.994493,0.104806,-0.148170,1.840816,-0.776382,0.603684}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.028 A}
+{plotter:-0.934048,0.357147,-0.184998,1.683098,-0.554681,0.999442}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.039 A}
+{plotter:-0.810714,0.585442,-0.178653,1.442776,-0.098112,0.774808}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.042 A}
+{plotter:-0.632795,0.774319,-0.134359,1.131231,-0.218632,1.027546}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.037 A}
+{plotter:-0.412270,0.911062,-0.060579,0.763961,0.185991,1.236918}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.004 A}
+{plotter:-0.163987,0.986463,0.031702,0.359676,0.063559,1.037285}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.007 A}
+{plotter:0.095338,0.995445,0.129874,-0.060801,0.940165,0.999819}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.047 A}
+{plotter:0.348243,0.937404,0.220718,-0.475768,0.903746,0.874983}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.016 A}
+{plotter:0.577701,0.816248,0.291471,-0.863931,1.292805,0.561754}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.019 A}
+{plotter:0.768263,0.640135,0.330861,-1.205664,0.840304,0.632125}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.041 A}
+{plotter:0.907097,0.420921,0.330038,-1.484157,1.264764,0.037441}
+{voltage:the vol is 3.375 V}
+{current:the cur is 0.037 A}
+{plotter:0.984857,0.173366,0.283329,-1.686386,1.571878,-0.214255}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.021 A}
+{plotter:0.996307,-0.085861,0.188774,-1.803840,1.577832,-0.182000}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.028 A}
+{plotter:0.940676,-0.339307,0.048394,-1.832957,1.337978,-1.008756}
+{voltage:the vol is 3.340 V}
+{current:the cur is 0.034 A}
+{plotter:0.821709,-0.569907,-0.131836,-1.775253,1.012360,-1.059237}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.048 A}
+{plotter:0.647416,-0.762136,-0.342292,-1.637125,0.671099,-1.665551}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.012 A}
+{plotter:0.429534,-0.903051,-0.570289,-1.429356,0.427081,-1.608514}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.035 A}
+{plotter:0.182730,-0.983163,-0.800890,-1.166351,0.125316,-1.279267}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.031 A}
+{plotter:-0.076376,-0.997079,-1.017903,-0.865151,-0.142278,-1.733561}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.044 A}
+{plotter:-0.330340,-0.943862,-1.204992,-0.544312,-0.678736,-1.011075}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.035 A}
+{plotter:-0.562062,-0.827095,-1.346818,-0.222693,-0.620511,-1.070399}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.005 A}
+{plotter:-0.755941,-0.654640,-1.430144,0.081738,-1.222325,-1.240943}
+{voltage:the vol is 3.400 V}
+{current:the cur is 0.039 A}
+{plotter:-0.898923,-0.438108,-1.444827,0.353018,-1.189498,-0.556045}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.027 A}
+{plotter:-0.981380,-0.192078,-1.384616,0.578143,-1.418610,-0.582172}
+{voltage:the vol is 3.388 V}
+{current:the cur is 0.019 A}
+{plotter:-0.997761,0.066884,-1.247716,0.747805,-1.540560,-0.005874}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.015 A}
+{plotter:-0.946963,0.321343,-1.037058,0.856867,-1.174495,0.309311}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.027 A}
+{plotter:-0.832406,0.554166,-0.760270,0.904542,-1.218586,0.577168}
+{voltage:the vol is 3.394 V}
+{current:the cur is 0.038 A}
+{plotter:-0.661803,0.749677,-0.429334,0.894273,-1.560231,0.760844}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.039 A}
+{plotter:-0.446642,0.894713,-0.059958,0.833325,-1.003876,1.215559}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.011 A}
+{plotter:-0.201408,0.979507,0.329312,0.732128,-0.470801,1.177934}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.038 A}
+{plotter:0.057387,0.998352,0.718173,0.603400,-0.184642,1.315284}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.019 A}
+{plotter:0.312318,0.949978,1.085778,0.461143,-0.098800,1.296851}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.019 A}
+{plotter:0.546220,0.837642,1.411996,0.319556,0.387158,0.884462}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.017 A}
+{plotter:0.743346,0.668907,1.678649,0.191958,0.555143,1.230227}
+{voltage:the vol is 3.388 V}
+{current:the cur is 0.041 A}
+{plotter:0.890422,0.455136,1.870635,0.089791,0.793723,0.550264}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.014 A}
+{plotter:0.977547,0.210720,1.976868,0.021775,0.941408,0.300017}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.040 A}
+{plotter:0.998853,-0.047884,1.990979,-0.006727,1.053552,0.115528}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.038 A}
+{plotter:0.952907,-0.303263,1.911724,0.005911,1.109571,0.344327}
+{voltage:the vol is 3.304 V}
+{current:the cur is 0.041 A}
+{plotter:0.842802,-0.538224,1.743073,0.057470,0.919513,0.096089}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.030 A}
+{plotter:0.675951,-0.736947,1.493980,0.142078,1.027250,-0.076422}
+{voltage:the vol is 3.380 V}
+{current:the cur is 0.042 A}
+{plotter:0.463588,-0.886051,1.177843,0.250667,1.138120,-0.486581}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.020 A}
+{plotter:0.220012,-0.975497,0.811693,0.371668,0.810046,-0.714408}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.031 A}
+{plotter:-0.038377,-0.999263,0.415156,0.491910,0.190315,-0.955954}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.039 A}
+{plotter:-0.294182,-0.955749,0.009265,0.597629,-0.090218,-0.809967}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.037 A}
+{plotter:-0.530180,-0.847885,-0.384805,0.675555,0.255717,-0.708637}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.002 A}
+{plotter:-0.730481,-0.682933,-0.747005,0.713957,-0.004057,-0.696860}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.004 A}
+{plotter:-0.881599,-0.471999,-1.059587,0.703611,-0.088655,-0.551696}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.036 A}
+{plotter:-0.973359,-0.229285,-1.308127,0.638592,-0.899510,-0.280164}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.009 A}
+{plotter:-0.999583,0.028866,-1.482318,0.516848,-0.700614,-0.225827}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.024 A}
+{plotter:-0.958506,0.285074,-1.576502,0.340509,-0.869683,0.251917}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.002 A}
+{plotter:-0.852892,0.522088,-1.589884,0.115900,-0.359564,0.191007}
+{voltage:the vol is 3.306 V}
+{current:the cur is 0.046 A}
+{plotter:-0.689853,0.723949,-1.526441,-0.146735,-0.291255,0.592667}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.026 A}
+{plotter:-0.480367,0.877068,-1.394531,-0.433798,-0.415298,0.869647}
+{voltage:the vol is 3.322 V}
+{current:the cur is 0.036 A}
+{plotter:-0.238537,0.971133,-1.206216,-0.729142,-0.234073,0.389616}
+{voltage:the vol is 3.345 V}
+{current:the cur is 0.028 A}
+{plotter:0.019353,0.999813,-0.976370,-1.015076,0.055398,0.579273}
+{voltage:the vol is 3.319 V}
+{current:the cur is 0.031 A}
+{plotter:0.275940,0.961175,-0.721618,-1.273498,0.237750,0.715766}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.041 A}
+{plotter:0.513948,0.857821,-0.459189,-1.487084,0.381573,0.044048}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.049 A}
+{plotter:0.717352,0.696711,-0.205749,-1.640453,0.432457,0.244133}
+{voltage:the vol is 3.389 V}
+{current:the cur is 0.001 A}
+{plotter:0.872457,0.488691,0.023689,-1.721224,0.751977,0.107190}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.044 A}
+{plotter:0.968819,0.247768,0.216726,-1.720913,0.700185,-0.286963}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.000 A}
+{plotter:0.999952,-0.009838,0.364328,-1.635575,0.768095,-0.182075}
+{voltage:the vol is 3.322 V}
+{current:the cur is 0.046 A}
+{plotter:0.963757,-0.266781,0.461334,-1.466181,0.633973,-0.433024}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.011 A}
+{plotter:0.862673,-0.505762,0.506674,-1.218672,0.498741,-0.682941}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.034 A}
+{plotter:0.703506,-0.710690,0.503302,-0.903710,0.416729,-0.812725}
+{voltage:the vol is 3.318 V}
+{current:the cur is 0.001 A}
+{plotter:0.496971,-0.867767,0.457832,-0.536111,0.427046,-0.888067}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.034 A}
+{plotter:0.256976,-0.966418,0.379931,-0.134020,-0.201841,-0.909813}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.024 A}
+{plotter:-0.000322,-1.000000,0.281492,0.282136,-0.337470,-0.846747}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.007 A}
+{plotter:-0.257598,-0.966252,0.175657,0.690853,-1.087960,-0.796914}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.045 A}
+{plotter:-0.497530,-0.867447,0.075762,1.070821,-0.710425,-0.375617}
+{voltage:the vol is 3.389 V}
+{current:the cur is 0.006 A}
+{plotter:-0.703963,-0.710237,-0.005724,1.402202,-1.101449,-0.661375}
+{voltage:the vol is 3.395 V}
+{current:the cur is 0.043 A}
+{plotter:-0.862999,-0.505206,-0.058191,1.667806,-1.186620,0.057695}
+{voltage:the vol is 3.379 V}
+{current:the cur is 0.029 A}
+{plotter:-0.963929,-0.266160,-0.073736,1.854121,-1.134264,-0.248936}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.048 A}
+{plotter:-0.999958,-0.009194,-0.047811,1.952105,-1.156840,0.718769}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.040 A}
+{plotter:-0.968660,0.248391,0.020379,1.957699,-1.102389,0.574228}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.009 A}
+{plotter:-0.872142,0.489253,0.127757,1.872041,-0.858168,0.825136}
+{voltage:the vol is 3.345 V}
+{current:the cur is 0.033 A}
+{plotter:-0.716903,0.697173,0.267536,1.701343,-0.590868,0.796647}
+{voltage:the vol is 3.393 V}
+{current:the cur is 0.042 A}
+{plotter:-0.513396,0.858152,0.429674,1.456465,-0.391520,0.892776}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.013 A}
+{plotter:-0.275321,0.961352,0.601555,1.152197,-0.247476,1.410240}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.011 A}
+{plotter:-0.018709,0.999825,0.768893,0.806311,0.523628,1.164763}
+{voltage:the vol is 3.304 V}
+{current:the cur is 0.024 A}
+{plotter:0.239162,0.970980,0.916760,0.438435,0.702099,1.315062}
+{voltage:the vol is 3.332 V}
+{current:the cur is 0.037 A}
+{plotter:0.480931,0.876758,1.030689,0.068826,1.210052,1.382457}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.048 A}
+{plotter:0.690319,0.723505,1.097766,-0.282872,1.128915,0.772063}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.041 A}
+{plotter:0.853228,0.521539,1.107640,-0.598815,1.128537,0.670590}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.038 A}
+{plotter:0.958689,0.284457,1.053370,-0.864007,0.983632,0.322561}
+{voltage:the vol is 3.393 V}
+{current:the cur is 0.020 A}
+{plotter:0.999602,0.028223,0.932060,-1.067143,1.227816,0.012584}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.031 A}
+{plotter:0.973211,-0.229912,0.745224,-1.201199,1.157800,-0.231380}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.049 A}
+{plotter:0.881295,-0.472566,0.498863,-1.263727,1.526366,-0.612493}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.046 A}
+{plotter:0.730041,-0.683403,0.203231,-1.256852,1.307886,-0.875094}
+{voltage:the vol is 3.331 V}
+{current:the cur is 0.018 A}
+{plotter:0.529634,-0.848226,-0.127688,-1.186957,0.829519,-1.168191}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.009 A}
+{plotter:0.293567,-0.955939,-0.476966,-1.064100,0.533727,-1.347025}
+{voltage:the vol is 3.338 V}
+{current:the cur is 0.001 A}
+{plotter:0.037734,-0.999288,-0.825729,-0.901196,0.392025,-1.180508}
+{voltage:the vol is 3.338 V}
+{current:the cur is 0.011 A}
+{plotter:-0.220640,-0.975355,-1.154304,-0.713024,0.085886,-1.453400}
+{voltage:the vol is 3.337 V}
+{current:the cur is 0.001 A}
+{plotter:-0.464158,-0.885752,-1.443449,-0.515132,-0.315003,-0.907928}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.048 A}
+{plotter:-0.676425,-0.736512,-1.675566,-0.322716,-0.675121,-1.295801}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.034 A}
+{plotter:-0.843148,-0.537682,-1.835840,-0.149545,-0.913671,-1.195943}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.043 A}
+{plotter:-0.953102,-0.302650,-1.913217,-0.007014,-1.212183,-0.910183}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.038 A}
+{plotter:-0.998884,-0.047241,-1.901150,0.096617,-1.265812,-0.158871}
+{voltage:the vol is 3.371 V}
+{current:the cur is 0.043 A}
+{plotter:-0.977411,0.211349,-1.798080,0.156741,-1.301486,-0.468865}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.014 A}
+{plotter:-0.890129,0.455709,-1.607600,0.172658,-1.559846,0.254461}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.008 A}
+{plotter:-0.742915,0.669386,-1.338303,0.147528,-0.744337,0.488954}
+{voltage:the vol is 3.389 V}
+{current:the cur is 0.003 A}
+{plotter:-0.545681,0.837993,-1.003314,0.088048,-0.600304,0.770871}
+{voltage:the vol is 3.325 V}
+{current:the cur is 0.020 A}
+{plotter:-0.311706,0.950179,-0.619539,0.003873,-0.736191,0.693396}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.039 A}
+{plotter:-0.056744,0.998389,-0.206674,-0.093186,-0.457630,0.885672}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.032 A}
+{plotter:0.202038,0.979378,0.213957,-0.190120,-0.350491,0.979566}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.035 A}
+{plotter:0.447218,0.894425,0.620672,-0.273764,0.104490,1.006389}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.043 A}
+{plotter:0.662286,0.749251,0.992710,-0.331862,-0.097112,0.773524}
+{voltage:the vol is 3.329 V}
+{current:the cur is 0.050 A}
+{plotter:0.832762,0.553630,1.311459,-0.354066,0.772287,0.566297}
+{voltage:the vol is 3.384 V}
+{current:the cur is 0.007 A}
+{plotter:0.947169,0.320734,1.561538,-0.332800,0.918490,0.508193}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.039 A}
+{plotter:0.997804,0.066242,1.731674,-0.263933,0.552628,0.430524}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.023 A}
+{plotter:0.981256,-0.192709,1.815312,-0.147200,0.938559,-0.069104}
+{voltage:the vol is 3.317 V}
+{current:the cur is 0.032 A}
+{plotter:0.898640,-0.438686,1.810928,0.013648,0.772090,-0.038379}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.001 A}
+{plotter:0.755520,-0.655126,1.722027,0.210988,0.621580,0.186582}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.046 A}
+{plotter:0.561530,-0.827456,1.556817,0.433757,0.495802,-0.804645}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.020 A}
+{plotter:0.329732,-0.944074,1.327602,0.668137,0.370408,-0.057726}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.025 A}
+{plotter:0.075734,-0.997128,1.049921,0.898452,0.146433,-0.185836}
+{voltage:the vol is 3.313 V}
+{current:the cur is 0.008 A}
+{plotter:-0.183363,-0.983045,0.741499,1.108225,-0.063830,-0.331913}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.018 A}
+{plotter:-0.430115,-0.902774,0.421079,1.281309,-0.297809,-0.799905}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.004 A}
+{plotter:-0.647907,-0.761720,0.107214,1.403028,-0.418261,-0.401639}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.027 A}
+{plotter:-0.822075,-0.569378,-0.182903,1.461248,-0.265328,-0.130109}
+{voltage:the vol is 3.322 V}
+{current:the cur is 0.009 A}
+{plotter:-0.940894,-0.338701,-0.434493,1.447294,-0.440784,-0.231524}
+{voltage:the vol is 3.343 V}
+{current:the cur is 0.003 A}
+{plotter:-0.996362,-0.085219,-0.636063,1.356661,-0.079696,0.052877}
+{voltage:the vol is 3.336 V}
+{current:the cur is 0.007 A}
+{plotter:-0.984746,0.174000,-0.780031,1.189460,-0.652507,0.291923}
+{voltage:the vol is 3.362 V}
+{current:the cur is 0.002 A}
+{plotter:-0.906826,0.421505,-0.863085,0.950567,-0.643277,0.432033}
+{voltage:the vol is 3.346 V}
+{current:the cur is 0.027 A}
+{plotter:-0.767851,0.640629,-0.886234,0.649467,0.196965,0.600172}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.043 A}
+{plotter:-0.577175,0.816620,-0.854567,0.299784,0.255332,0.754085}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.032 A}
+{plotter:-0.347639,0.937628,-0.776739,-0.081460,0.077898,0.744051}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.034 A}
+{plotter:-0.094697,0.995506,-0.664209,-0.474815,0.201590,0.644382}
+{voltage:the vol is 3.325 V}
+{current:the cur is 0.034 A}
+{plotter:0.164622,0.986357,-0.530313,-0.859556,0.346809,0.494047}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.031 A}
+{plotter:0.412856,0.910796,-0.389209,-1.214922,0.961208,0.902792}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.006 A}
+{plotter:0.633293,0.773912,-0.254792,-1.521378,0.656020,0.688537}
+{voltage:the vol is 3.318 V}
+{current:the cur is 0.036 A}
+{plotter:0.811091,0.584920,-0.139638,-1.761820,1.050314,-0.316164}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.005 A}
+{plotter:0.934278,0.356546,-0.054071,-1.922626,1.075155,-0.351770}
+{voltage:the vol is 3.341 V}
+{current:the cur is 0.015 A}
+{plotter:0.994560,0.104166,-0.005394,-1.994514,0.986917,-0.067523}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.043 A}
+{plotter:0.987879,-0.155228,0.002640,-1.973117,0.914712,-0.508377}
+{voltage:the vol is 3.400 V}
+{current:the cur is 0.006 A}
+{plotter:0.914684,-0.404170,-0.029907,-1.859275,0.845722,-0.878642}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.027 A}
+{plotter:0.779903,-0.625900,-0.099177,-1.658984,0.374759,-1.230313}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.004 A}
+{plotter:0.592612,-0.805488,-0.197819,-1.383044,0.334708,-1.076387}
+{voltage:the vol is 3.332 V}
+{current:the cur is 0.041 A}
+{plotter:0.365420,-0.930843,-0.315557,-1.046398,-0.097201,-0.974423}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.030 A}
+{plotter:0.113625,-0.993524,-0.439974,-0.667224,-0.693133,-1.440684}
+{voltage:the vol is 3.337 V}
+{current:the cur is 0.001 A}
+{plotter:-0.145820,-0.989311,-0.557470,-0.265829,-0.942852,-1.394063}
+{voltage:the vol is 3.384 V}
+{current:the cur is 0.027 A}
+{plotter:-0.395448,-0.918488,-0.654312,0.136584,-0.988757,-1.042078}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.045 A}
+{plotter:-0.618450,-0.785824,-0.717716,0.519185,-1.601577,-0.799953}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.042 A}
+{plotter:-0.799812,-0.600250,-0.736866,0.862758,-1.344249,-0.551376}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.005 A}
+{plotter:-0.927323,-0.374262,-0.703823,1.150823,-1.374532,-0.344816}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.037 A}
+{plotter:-0.992397,-0.123074,-0.614225,1.370570,-1.649032,0.246592}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.003 A}
+{plotter:-0.990654,0.136400,-0.467764,1.513544,-1.626227,0.529313}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.030 A}
+{plotter:-0.922210,0.386690,-0.268365,1.576054,-1.125320,0.929768}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.043 A}
+{plotter:-0.791674,0.610944,-0.024084,1.559263,-0.982917,1.341919}
+{voltage:the vol is 3.379 V}
+{current:the cur is 0.019 A}
+{plotter:-0.607834,0.794064,0.253296,1.468964,-0.701189,1.497406}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.018 A}
+{plotter:-0.383069,0.923720,0.548935,1.315074,-0.637834,1.299059}
+{voltage:the vol is 3.341 V}
+{current:the cur is 0.039 A}
+{plotter:-0.132512,0.991181,0.845835,1.110860,-0.323058,1.017635}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.008 A}
+{plotter:0.126966,0.991907,1.125906,0.871973,0.083211,1.671108}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.044 A}
+{plotter:0.377897,0.925848,1.371135,0.615341,0.410663,1.587774}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.008 A}
+{plotter:0.603383,0.797451,1.564776,0.358010,0.832297,0.880396}
+{voltage:the vol is 3.343 V}
+{current:the cur is 0.030 A}
+{plotter:0.788244,0.615363,1.692487,0.115999,0.944236,0.780443}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.032 A}
+{plotter:0.920033,0.391842,1.743325,-0.096740,1.180014,0.466616}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.027 A}
+{plotter:0.989875,0.141938,1.710547,-0.269204,1.435500,0.156300}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.009 A}
+{plotter:0.993070,-0.117522,1.592152,-0.393989,1.716443,0.119500}
+{voltage:the vol is 3.372 V}
+{current:the cur is 0.036 A}
+{plotter:0.929402,-0.369069,1.391125,-0.467679,1.080835,0.091992}
+{voltage:the vol is 3.398 V}
+{current:the cur is 0.047 A}
+{plotter:0.803157,-0.595767,1.115369,-0.490945,1.730526,-0.399943}
+{voltage:the vol is 3.326 V}
+{current:the cur is 0.033 A}
+{plotter:0.622836,-0.782353,0.777318,-0.468353,1.532194,-0.733227}
+{voltage:the vol is 3.346 V}
+{current:the cur is 0.038 A}
+{plotter:0.400579,-0.916262,0.393266,-0.407892,0.512915,-0.921037}
+{voltage:the vol is 3.359 V}
+{current:the cur is 0.017 A}
+{plotter:0.151352,-0.988480,-0.017565,-0.320268,0.383178,-1.019936}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.038 A}
+{plotter:-0.108066,-0.994144,-0.434140,-0.218007,0.266038,-1.164430}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.031 A}
+{plotter:-0.360208,-0.932872,-0.834856,-0.114439,0.003176,-0.967796}
+{voltage:the vol is 3.316 V}
+{current:the cur is 0.038 A}
+{plotter:-0.588098,-0.808790,-1.198826,-0.022631,-0.032091,-0.829255}
+{voltage:the vol is 3.379 V}
+{current:the cur is 0.018 A}
+{plotter:-0.776390,-0.630252,-1.507125,0.045656,-0.494988,-1.062556}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.002 A}
+{plotter:-0.912409,-0.409280,-1.743915,0.080902,-0.374051,-1.178488}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.006 A}
+{plotter:-0.986995,-0.160751,-1.897387,0.076603,-0.703369,-1.068365}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.047 A}
+{plotter:-0.995127,0.098601,-1.960442,0.029812,-0.841018,-0.569080}
+{voltage:the vol is 3.313 V}
+{current:the cur is 0.024 A}
+{plotter:-0.936257,0.351315,-1.931087,-0.058572,-0.922527,0.032649}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.002 A}
+{plotter:-0.814350,0.580375,-1.812509,-0.183810,-0.871053,0.554482}
+{voltage:the vol is 3.336 V}
+{current:the cur is 0.007 A}
+{plotter:-0.637612,0.770358,-1.612828,-0.337604,-0.681023,0.652827}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.044 A}
+{plotter:-0.417944,0.908473,-1.344548,-0.508660,-0.791298,0.088508}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.017 A}
+{plotter:-0.170136,0.985421,-1.023738,-0.683466,-0.192425,0.248734}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.024 A}
+{plotter:0.089127,0.996020,-0.669005,-0.847260,-0.004308,0.858702}
+{voltage:the vol is 3.359 V}
+{current:the cur is 0.011 A}
+{plotter:0.342390,0.939558,-0.300318,-0.985098,-0.362862,0.345612}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.011 A}
+{plotter:0.572599,0.819836,0.062232,-1.082966,0.529610,0.769121}
+{voltage:the vol is 3.363 V}
+{current:the cur is 0.031 A}
+{plotter:0.764255,0.644914,0.399664,-1.128847,0.202179,0.564756}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.033 A}
+{plotter:0.904455,0.426570,0.695234,-1.113675,0.239043,0.418659}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.026 A}
+{plotter:0.983757,0.179505,0.935415,-1.032099,0.008337,0.157278}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.036 A}
+{plotter:0.996823,-0.079645,1.110632,-0.883015,0.549176,-0.059768}
+{voltage:the vol is 3.336 V}
+{current:the cur is 0.009 A}
+{plotter:0.942774,-0.333433,1.215738,-0.669810,0.229513,-0.326353}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.032 A}
+{plotter:0.825247,-0.564772,1.250182,-0.400313,0.377981,-0.284590}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.044 A}
+{plotter:0.652157,-0.758084,1.217877,-0.086437,0.446127,-0.488337}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.024 A}
+{plotter:0.435157,-0.900354,1.126773,0.256458,0.393806,-0.603674}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.010 A}
+{plotter:0.188859,-0.982004,0.988165,0.610448,-0.087588,-0.441588}
+{voltage:the vol is 3.371 V}
+{current:the cur is 0.014 A}
+{plotter:-0.070156,-0.997536,0.815802,0.956114,-0.078591,-0.421759}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.004 A}
+{plotter:-0.324447,-0.945904,0.624844,1.273738,-0.330329,-0.426860}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.045 A}
+{plotter:-0.556893,-0.830584,0.430744,1.544530,-0.640225,-0.056347}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.015 A}
+{plotter:-0.751844,-0.659341,0.248144,1.751831,-0.749497,-0.209504}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.019 A}
+{plotter:-0.896173,-0.443705,0.089844,1.882190,-0.763169,-0.167794}
+{voltage:the vol is 3.326 V}
+{current:the cur is 0.042 A}
+{plotter:-0.980163,-0.198195,-0.034070,1.926256,-0.792648,-0.019931}
+{voltage:the vol is 3.362 V}
+{current:the cur is 0.000 A}
+{plotter:-0.998158,0.060660,-0.116892,1.879425,-0.544924,0.844756}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.032 A}
+{plotter:-0.948948,0.315431,-0.155704,1.742193,-0.458603,0.820375}
+{voltage:the vol is 3.316 V}
+{current:the cur is 0.045 A}
+{plotter:-0.835846,0.548964,-0.151503,1.520189,-0.751663,0.966708}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.003 A}
+{plotter:-0.666466,0.745535,-0.109038,1.223895,0.054885,1.299051}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.020 A}
+{plotter:-0.452213,0.891910,-0.036371,0.868055,-0.021572,0.995874}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.002 A}
+{plotter:-0.207513,0.978232,0.055797,0.470823,0.241000,1.152088}
+{voltage:the vol is 3.400 V}
+{current:the cur is 0.047 A}
+{plotter:0.051159,0.998690,0.155007,0.052688,0.661052,1.062976}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.041 A}
+{plotter:0.306387,0.951907,0.248038,-0.364735,0.400711,0.908223}
+{voltage:the vol is 3.345 V}
+{current:the cur is 0.026 A}
+{plotter:0.540985,0.841032,0.321977,-0.759994,1.402839,0.765024}
+{voltage:the vol is 3.388 V}
+{current:the cur is 0.010 A}
+{plotter:0.739160,0.673530,0.365255,-1.113064,0.759030,0.596906}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.048 A}
+{plotter:0.887566,0.460680,0.368608,-1.406525,1.674565,0.292546}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.030 A}
+{plotter:0.976213,0.216812,0.325861,-1.626566,1.245412,-0.151444}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.032 A}
+{plotter:0.999132,-0.041653,0.234503,-1.763761,1.189305,-0.627790}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.033 A}
+{plotter:0.954780,-0.297315,0.096000,-1.813559,1.084903,-0.588571}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.046 A}
+{plotter:0.846142,-0.532958,-0.084183,-1.776467,0.948271,-1.379214}
+{voltage:the vol is 3.332 V}
+{current:the cur is 0.019 A}
+{plotter:0.680534,-0.732717,-0.296850,-1.657918,0.736495,-0.736117}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.007 A}
+{plotter:0.469105,-0.883142,-0.529612,-1.467822,0.506563,-1.205461}
+{voltage:the vol is 3.339 V}
+{current:the cur is 0.004 A}
+{plotter:0.226092,-0.974106,-0.767670,-1.219854,0.140016,-1.611421}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.016 A}
+{plotter:-0.032144,-0.999483,-0.994794,-0.930507,-0.076441,-1.819030}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.038 A}
+{plotter:-0.288215,-0.957566,-1.194416,-0.617985,-0.535134,-1.130332}
+{voltage:the vol is 3.388 V}
+{current:the cur is 0.022 A}
+{plotter:-0.524882,-0.851175,-1.350780,-0.301016,-0.973914,-1.002608}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.014 A}
+{plotter:-0.726208,-0.687475,-1.450065,0.002351,-1.167357,-0.922436}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.019 A}
+{plotter:-0.878638,-0.477488,-1.481401,0.275875,-1.608229,-0.501899}
+{voltage:the vol is 3.339 V}
+{current:the cur is 0.003 A}
+{plotter:-0.971910,-0.235351,-1.437714,0.506106,-1.713966,-0.680244}
+{voltage:the vol is 3.317 V}
+{current:the cur is 0.018 A}
+{plotter:-0.999744,0.022631,-1.316328,0.683160,-1.207191,-0.292291}
+{voltage:the vol is 3.313 V}
+{current:the cur is 0.019 A}
+{plotter:-0.960265,0.279090,-1.119296,0.801234,-0.961289,0.221534}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.010 A}
+{plotter:-0.856131,0.516758,-0.853424,0.858839,-1.211396,0.519221}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.024 A}
+{plotter:-0.694355,0.719633,-0.529980,0.858730,-1.628885,0.875219}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.002 A}
+{plotter:-0.485827,0.874055,-0.164112,0.807543,-1.014856,0.876166}
+{voltage:the vol is 3.379 V}
+{current:the cur is 0.048 A}
+{plotter:-0.244589,0.969627,0.225999,0.715178,-0.867867,1.257162}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.039 A}
+{plotter:0.013117,0.999914,0.620192,0.593958,-0.322498,1.337977}
+{voltage:the vol is 3.329 V}
+{current:the cur is 0.011 A}
+{plotter:0.269940,0.962877,0.997522,0.457643,-0.311022,1.517241}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.007 A}
+{plotter:0.508588,0.861010,1.337527,0.320351,0.065343,1.024511}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.007 A}
+{plotter:0.712993,0.701171,1.621470,0.195484,0.322251,1.554502}
+{voltage:the vol is 3.349 V}
+{current:the cur is 0.013 A}
+{plotter:0.869392,0.494123,1.833494,0.094710,0.660189,1.334737}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.031 A}
+{plotter:0.967255,0.253805,1.961607,0.027096,0.954953,0.323844}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.001 A}
+{plotter:0.999994,-0.003601,1.998422,-0.001566,1.052940,0.394314}
+{voltage:the vol is 3.304 V}
+{current:the cur is 0.034 A}
+{plotter:0.965402,-0.260765,1.941627,0.010822,1.143451,0.079917}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.048 A}
+{plotter:0.865811,-0.500372,1.794137,0.062515,1.046254,0.112402}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.010 A}
+{plotter:0.707924,-0.706288,1.563917,0.148068,1.018745,-0.074018}
+{voltage:the vol is 3.326 V}
+{current:the cur is 0.040 A}
+{plotter:0.502374,-0.864651,1.263502,0.258754,0.965443,-0.544353}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.011 A}
+{plotter:0.262998,-0.964796,0.909228,0.383232,0.324460,-0.898807}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.028 A}
+{plotter:0.005915,-0.999983,0.520237,0.508407,0.464590,-0.605031}
+{voltage:the vol is 3.313 V}
+{current:the cur is 0.047 A}
+{plotter:-0.251566,-0.967840,0.117310,0.620443,-0.212648,-0.615478}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.023 A}
+{plotter:-0.492110,-0.870533,-0.278388,0.705832,-0.396528,-0.832520}
+{voltage:the vol is 3.306 V}
+{current:the cur is 0.015 A}
+{plotter:-0.699520,-0.714613,-0.646578,0.752462,-0.068246,-0.669852}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.010 A}
+{plotter:-0.859831,-0.510579,-0.969063,0.750599,-0.295674,-0.533280}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.012 A}
+{plotter:-0.962250,-0.272167,-1.230780,0.693720,-0.293072,-0.367821}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.003 A}
+{plotter:-0.999881,-0.015430,-1.420642,0.579120,-0.983851,-0.357142}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.025 A}
+{plotter:-0.970190,0.242345,-1.532106,0.408274,-0.783076,-0.170959}
+{voltage:the vol is 3.375 V}
+{current:the cur is 0.029 A}
+{plotter:-0.875177,0.483804,-1.563458,0.186895,-0.548000,0.288748}
+{voltage:the vol is 3.337 V}
+{current:the cur is 0.006 A}
+{plotter:-0.721238,0.692688,-1.517767,-0.075292,-0.141456,0.573282}
+{voltage:the vol is 3.306 V}
+{current:the cur is 0.039 A}
+{plotter:-0.518738,0.854933,-1.402551,-0.365075,-0.077311,0.130718}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.029 A}
+{plotter:-0.281311,0.959617,-1.229144,-0.666521,-0.259754,0.425461}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.007 A}
+{plotter:-0.024945,0.999689,-1.011849,-0.961960,0.122522,0.294938}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.021 A}
+{plotter:0.233102,0.972452,-0.766898,-1.233102,0.233101,0.730593}
+{voltage:the vol is 3.329 V}
+{current:the cur is 0.005 A}
+{plotter:0.475454,0.879741,-0.511320,-1.462227,0.391263,0.707905}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.033 A}
+{plotter:0.685793,0.727796,-0.261781,-1.633368,0.544715,-0.106707}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.009 A}
+{plotter:0.849958,0.526850,-0.033476,-1.733392,0.769223,-0.144940}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.038 A}
+{plotter:0.956896,0.290430,0.160856,-1.752937,0.725711,0.003956}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.042 A}
+{plotter:0.999406,0.034456,0.311712,-1.687100,0.862989,-0.277920}
+{voltage:the vol is 3.375 V}
+{current:the cur is 0.011 A}
+{plotter:0.974626,-0.223838,0.413380,-1.535873,0.694887,-0.292660}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.045 A}
+{plotter:0.884225,-0.467061,0.464199,-1.304252,0.383289,-0.613615}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.040 A}
+{plotter:0.734289,-0.678836,0.466539,-1.002040,0.081692,-0.726770}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.022 A}
+{plotter:0.534914,-0.844906,0.426487,-0.643341,-0.276127,-0.949664}
+{voltage:the vol is 3.332 V}
+{current:the cur is 0.017 A}
+{plotter:0.299523,-0.954089,0.353273,-0.245773,0.222331,-0.914578}
+{voltage:the vol is 3.375 V}
+{current:the cur is 0.031 A}
+{plotter:0.043965,-0.999033,0.258478,0.170547,-0.069335,-0.956729}
+{voltage:the vol is 3.306 V}
+{current:the cur is 0.015 A}
+{plotter:-0.214553,-0.976712,0.155076,0.584182,-0.314115,-0.811611}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.045 A}
+{plotter:-0.458625,-0.888630,0.056391,0.973641,-0.731708,-0.440696}
+{voltage:the vol is 3.316 V}
+{current:the cur is 0.039 A}
+{plotter:-0.671818,-0.740716,-0.024971,1.318666,-1.384678,-0.547730}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.045 A}
+{plotter:-0.839778,-0.542930,-0.078125,1.601431,-1.026855,0.172141}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.015 A}
+{plotter:-0.951196,-0.308588,-0.094785,1.807606,-1.033146,-0.216615}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.002 A}
+{plotter:-0.998569,-0.053470,-0.069943,1.927196,-1.104438,0.228403}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.005 A}
+{plotter:-0.978710,0.205249,-0.002310,1.955110,-1.144068,0.842425}
+{voltage:the vol is 3.338 V}
+{current:the cur is 0.031 A}
+{plotter:-0.892954,0.450148,0.105519,1.891427,-0.919503,0.698129}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.009 A}
+{plotter:-0.747075,0.664739,0.247190,1.741341,-0.724422,1.090367}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.030 A}
+{plotter:-0.550897,0.834574,0.412991,1.514784,-0.389966,1.325680}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.039 A}
+{plotter:-0.317626,0.948216,0.590512,1.225764,-0.053649,0.968725}
+{voltage:the vol is 3.329 V}
+{current:the cur is 0.004 A}
+{plotter:-0.062970,0.998015,0.765516,0.891456,0.336627,1.798714}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.039 A}
+{plotter:0.195926,0.980619,0.922953,0.531101,0.308409,1.069969}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.014 A}
+{plotter:0.441631,0.897197,1.048062,0.164801,0.511032,1.478255}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.019 A}
+{plotter:0.657600,0.753367,1.127475,-0.187726,1.028237,0.820593}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.012 A}
+{plotter:0.829293,0.558813,1.150243,-0.508344,1.062057,0.630914}
+{voltage:the vol is 3.388 V}
+{current:the cur is 0.032 A}
+{plotter:0.945151,0.326635,1.108727,-0.781574,0.999073,0.404866}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.000 A}
+{plotter:0.997371,0.072464,0.999269,-0.995473,1.092467,0.073363}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.031 A}
+{plotter:0.982439,-0.186586,0.822609,-1.142269,1.455600,-0.247875}
+{voltage:the vol is 3.381 V}
+{current:the cur is 0.035 A}
+{plotter:0.901359,-0.433073,0.584007,-1.218710,1.087999,-0.614174}
+{voltage:the vol is 3.329 V}
+{current:the cur is 0.050 A}
+{plotter:0.759591,-0.650401,0.293071,-1.226110,1.371598,-0.873289}
+{voltage:the vol is 3.398 V}
+{current:the cur is 0.047 A}
+{plotter:0.566680,-0.823938,-0.036729,-1.170088,0.696101,-1.039874}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.026 A}
+{plotter:0.335614,-0.942000,-0.388801,-1.060029,0.497315,-1.574379}
+{voltage:the vol is 3.349 V}
+{current:the cur is 0.049 A}
+{plotter:0.081952,-0.996636,-0.744402,-0.908306,0.179107,-1.073580}
+{voltage:the vol is 3.391 V}
+{current:the cur is 0.047 A}
+{plotter:-0.177229,-0.984170,-1.083771,-0.729314,-0.060901,-1.824949}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.031 A}
+{plotter:-0.424476,-0.905439,-1.387345,-0.538393,-0.256466,-1.403756}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.029 A}
+{plotter:-0.643144,-0.765746,-1.636996,-0.350708,-0.552758,-1.387316}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.024 A}
+{plotter:-0.818508,-0.574494,-1.817184,-0.180167,-0.864306,-1.120448}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.029 A}
+{plotter:-0.938763,-0.344563,-1.915976,-0.038449,-0.943732,-0.911768}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.008 A}
+{plotter:-0.995811,-0.091432,-1.925840,0.065783,-1.081204,-0.637323}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.039 A}
+{plotter:-0.985812,0.167855,-1.844176,0.127447,-1.337520,-0.402615}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.038 A}
+{plotter:-0.909437,0.415841,-1.673545,0.145330,-1.427525,0.051335}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.008 A}
+{plotter:-0.771831,0.635828,-1.421569,0.122093,-1.376673,0.465437}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.014 A}
+{plotter:-0.582257,0.813005,-1.100524,0.063991,-1.265164,0.784898}
+{voltage:the vol is 3.304 V}
+{current:the cur is 0.044 A}
+{plotter:-0.353480,0.935442,-0.726634,-0.019673,-0.592905,0.879845}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.026 A}
+{plotter:-0.100904,0.994896,-0.319123,-0.117315,-0.809769,0.919415}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.006 A}
+{plotter:0.158467,0.987364,0.100926,-0.216007,-0.560546,0.930076}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.027 A}
+{plotter:0.407168,0.913353,0.511820,-0.302515,-0.389089,0.953739}
+{voltage:the vol is 3.332 V}
+{current:the cur is 0.017 A}
+{plotter:0.628454,0.777847,0.892545,-0.364364,0.117374,0.909058}
+{voltage:the vol is 3.375 V}
+{current:the cur is 0.043 A}
+{plotter:0.807427,0.589967,1.224005,-0.390849,0.388293,0.863241}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.015 A}
+{plotter:0.932036,0.362366,1.490136,-0.373936,0.253798,0.432403}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.016 A}
+{plotter:0.993891,0.110367,1.678824,-0.308958,0.981172,0.214548}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.032 A}
+{plotter:0.988828,-0.149064,1.782564,-0.195091,0.561743,0.256658}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.016 A}
+{plotter:0.917187,-0.398458,1.798835,-0.035538,0.719161,-0.331460}
+{voltage:the vol is 3.398 V}
+{current:the cur is 0.003 A}
+{plotter:0.783792,-0.621024,1.730146,0.162563,0.581770,-0.200656}
+{voltage:the vol is 3.326 V}
+{current:the cur is 0.003 A}
+{plotter:0.597624,-0.801776,1.583776,0.388527,0.572494,-0.652441}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.013 A}
+{plotter:0.371219,-0.928545,1.371210,0.628772,0.367833,-0.423865}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.002 A}
+{plotter:0.119819,-0.992796,1.107329,0.867691,0.159363,-0.434140}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.016 A}
+{plotter:-0.139648,-0.990201,0.809389,1.088684,0.120146,-0.690085}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.019 A}
+{plotter:-0.389712,-0.920937,0.495871,1.275295,-0.178741,-0.446240}
+{voltage:the vol is 3.341 V}
+{current:the cur is 0.044 A}
+{plotter:-0.613537,-0.789666,0.185282,1.412357,-0.416490,-0.450167}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.041 A}
+{plotter:-0.796053,-0.605227,-0.105023,1.487084,-0.459733,-0.259111}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.040 A}
+{plotter:-0.924971,-0.380038,-0.359918,1.490023,-0.213148,0.073942}
+{voltage:the vol is 3.380 V}
+{current:the cur is 0.007 A}
+{plotter:-0.991611,-0.129261,-0.567409,1.415812,-0.674011,0.268013}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.025 A}
+{plotter:-0.991485,0.130219,-0.719300,1.263671,-0.189639,0.396797}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.019 A}
+{plotter:-0.924604,0.380931,-0.811599,1.037608,-0.865989,0.471143}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.002 A}
+{plotter:-0.795468,0.605995,-0.844619,0.746318,-0.214854,0.567174}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.030 A}
+{plotter:-0.612775,0.790258,-0.822786,0.402763,-0.549160,0.666963}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.027 A}
+{plotter:-0.388823,0.921313,-0.754168,0.023478,0.164610,0.643683}
+{voltage:the vol is 3.316 V}
+{current:the cur is 0.016 A}
+{plotter:-0.138692,0.990336,-0.649754,-0.372371,-0.018418,0.969529}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.030 A}
+{plotter:0.120778,0.992680,-0.522550,-0.764106,0.762606,0.924002}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.028 A}
+{plotter:0.372115,0.928187,-0.386545,-1.130775,0.531811,0.586492}
+{voltage:the vol is 3.317 V}
+{current:the cur is 0.049 A}
+{plotter:0.598398,0.801199,-0.255625,-1.452421,0.709075,0.486560}
+{voltage:the vol is 3.336 V}
+{current:the cur is 0.021 A}
+{plotter:0.784391,0.620267,-0.142517,-1.711299,0.991649,0.062261}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.008 A}
+{plotter:0.917571,0.397572,-0.057824,-1.892966,0.947249,-0.244068}
+{voltage:the vol is 3.372 V}
+{current:the cur is 0.023 A}
+{plotter:0.988971,0.148109,-0.009237,-1.987179,1.024131,-0.193908}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.023 A}
+{plotter:0.993784,-0.111326,-0.000963,-1.988531,0.968758,-0.650032}
+{voltage:the vol is 3.394 V}
+{current:the cur is 0.029 A}
+{plotter:0.931686,-0.363266,-0.033418,-1.896789,0.800372,-1.108263}
+{voltage:the vol is 3.381 V}
+{current:the cur is 0.033 A}
+{plotter:0.806857,-0.590747,-0.103200,-1.716914,0.707926,-1.085700}
+{voltage:the vol is 3.363 V}
+{current:the cur is 0.026 A}
+{plotter:0.627703,-0.778453,-0.203354,-1.458760,0.370224,-0.827073}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.023 A}
+{plotter:0.406286,-0.913746,-0.323896,-1.136468,-0.158362,-1.114993}
+{voltage:the vol is 3.372 V}
+{current:the cur is 0.005 A}
+{plotter:0.157513,-0.987517,-0.452574,-0.767601,0.015451,-1.525233}
+{voltage:the vol is 3.359 V}
+{current:the cur is 0.018 A}
+{plotter:-0.101864,-0.994798,-0.575799,-0.372071,-0.816535,-1.083910}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.044 A}
+{plotter:-0.354383,-0.935100,-0.679692,0.029075,-0.865526,-1.096538}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.018 A}
+{plotter:-0.583042,-0.812442,-0.751161,0.414923,-0.878919,-0.972454}
+{voltage:the vol is 3.331 V}
+{current:the cur is 0.035 A}
+{plotter:-0.772444,-0.635082,-0.778949,0.765940,-1.161364,-0.637861}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.004 A}
+{plotter:-0.909838,-0.414963,-0.754557,1.065120,-0.941343,-0.343423}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.033 A}
+{plotter:-0.985973,-0.166903,-0.672993,1.298954,-1.378752,0.078050}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.032 A}
+{plotter:-0.995723,0.092393,-0.533282,1.458163,-1.738363,0.305542}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.037 A}
+{plotter:-0.938430,0.345469,-0.338701,1.538160,-1.074333,0.463742}
+{voltage:the vol is 3.336 V}
+{current:the cur is 0.009 A}
+{plotter:-0.817953,0.575284,-0.096721,1.539186,-0.970943,1.155559}
+{voltage:the vol is 3.372 V}
+{current:the cur is 0.008 A}
+{plotter:-0.642404,0.766366,0.181347,1.466156,-0.769404,1.094112}
+{voltage:the vol is 3.362 V}
+{current:the cur is 0.046 A}
+{plotter:-0.423602,0.905849,0.480987,1.328190,-0.451520,1.203200}
+{voltage:the vol is 3.349 V}
+{current:the cur is 0.013 A}
+{plotter:-0.176278,0.984340,0.785337,1.137894,-0.292288,1.364532}
+{voltage:the vol is 3.393 V}
+{current:the cur is 0.042 A}
+{plotter:0.082914,0.996557,1.076245,0.910418,0.029048,1.353637}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.049 A}
+{plotter:0.336523,0.941675,1.335425,0.662379,0.350002,1.242074}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.006 A}
+{plotter:0.567475,0.823391,1.545655,0.410705,0.711005,1.645680}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.006 A}
+{plotter:0.760218,0.649668,1.691929,0.171493,0.954471,1.363884}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.003 A}
+{plotter:0.901777,0.432203,1.762495,-0.041058,1.030232,0.507644}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.003 A}
+{plotter:0.982618,0.185637,1.749689,-0.215548,1.444089,0.226675}
+{voltage:the vol is 3.331 V}
+{current:the cur is 0.033 A}
+{plotter:0.997301,-0.073427,1.650533,-0.344069,1.092457,0.035522}
+{voltage:the vol is 3.325 V}
+{current:the cur is 0.009 A}
+{plotter:0.944835,-0.327547,1.467035,-0.422635,0.948687,0.049325}
+{voltage:the vol is 3.331 V}
+{current:the cur is 0.043 A}
+{plotter:0.828754,-0.559614,1.206176,-0.451331,0.898305,-0.220455}
+{voltage:the vol is 3.346 V}
+{current:the cur is 0.045 A}
+{plotter:0.656872,-0.754002,0.879584,-0.434161,0.712657,-0.543089}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.021 A}
+{plotter:0.440764,-0.897623,0.502902,-0.378626,0.552612,-0.867349}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.018 A}
+{plotter:0.194979,-0.980807,0.094909,-0.295050,0.261206,-1.027109}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.018 A}
+{plotter:-0.063933,-0.997954,-0.323579,-0.195712,0.010542,-1.198923}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.034 A}
+{plotter:-0.318541,-0.947909,-0.730928,-0.093845,0.491238,-0.999685}
+{voltage:the vol is 3.343 V}
+{current:the cur is 0.003 A}
+{plotter:-0.551702,-0.834041,-1.105975,-0.002571,-0.262733,-0.898676}
+{voltage:the vol is 3.388 V}
+{current:the cur is 0.042 A}
+{plotter:-0.747717,-0.664018,-1.429286,0.066147,-0.515687,-0.737298}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.048 A}
+{plotter:-0.893388,-0.449286,-1.684315,0.102461,-0.484993,-1.155465}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.014 A}
+{plotter:-0.978908,-0.204304,-1.858374,0.099442,-0.752656,-0.830481}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.048 A}
+{plotter:-0.998517,0.054434,-1.943374,0.053661,-0.963057,-0.540329}
+{voltage:the vol is 3.337 V}
+{current:the cur is 0.003 A}
+{plotter:-0.950897,0.309507,-1.936274,-0.034480,-0.893219,-0.493753}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.018 A}
+{plotter:-0.839253,0.543740,-1.839215,-0.160708,-0.837953,-0.212570}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.028 A}
+{plotter:-0.671103,0.741364,-1.659328,-0.317122,-0.728729,-0.180300}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.024 A}
+{plotter:-0.457767,0.889072,-1.408245,-0.492711,-0.730553,-0.047221}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.049 A}
+{plotter:-0.213610,0.976919,-1.101323,-0.674103,-0.363053,0.168585}
+{voltage:the vol is 3.346 V}
+{current:the cur is 0.042 A}
+{plotter:0.044930,0.998990,-0.756652,-0.846511,-0.156604,0.748048}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.017 A}
+{plotter:0.300444,0.953799,-0.393908,-0.994796,0.245385,0.785525}
+{voltage:the vol is 3.341 V}
+{current:the cur is 0.002 A}
+{plotter:0.535730,0.844390,-0.033117,-1.104576,-0.260284,0.473277}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.007 A}
+{plotter:0.734945,0.678127,0.306576,-1.163313,0.097538,0.673944}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.011 A}
+{plotter:0.884676,0.466207,0.608061,-1.161290,0.694838,0.443042}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.032 A}
+{plotter:0.974842,0.222897,0.857262,-1.092422,0.371464,0.170040}
+{voltage:the vol is 3.317 V}
+{current:the cur is 0.010 A}
+{plotter:0.999372,-0.035421,1.043922,-0.954823,0.853303,-0.002665}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.039 A}
+{plotter:0.956615,-0.291354,1.162122,-0.751109,0.200738,-0.261613}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.007 A}
+{plotter:0.849449,-0.527670,1.210503,-0.488395,0.421925,-0.424225}
+{voltage:the vol is 3.316 V}
+{current:the cur is 0.036 A}
+{plotter:0.685090,-0.728458,1.192188,-0.177992,0.533108,-0.301928}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.045 A}
+{plotter:0.474604,-0.880199,1.114399,0.165191,0.274511,-0.817971}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.049 A}
+{plotter:0.232163,-0.972677,0.987814,0.523488,0.033574,-0.301246}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.002 A}
+{plotter:-0.025910,-0.999664,0.825709,0.877528,-0.152603,-0.180742}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.013 A}
+{plotter:-0.282238,-0.959345,0.642932,1.207407,-0.581345,-0.674907}
+{voltage:the vol is 3.348 V}
+{current:the cur is 0.021 A}
+{plotter:-0.519563,-0.854432,0.454806,1.493932,-0.713680,-0.380257}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.041 A}
+{plotter:-0.721906,-0.691991,0.276016,1.719828,-0.733957,-0.212811}
+{voltage:the vol is 3.343 V}
+{current:the cur is 0.019 A}
+{plotter:-0.875643,-0.482959,0.119565,1.870851,-0.808472,-0.386800}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.024 A}
+{plotter:-0.970424,-0.241408,-0.004124,1.936723,-0.745998,0.210320}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.033 A}
+{plotter:-0.999866,0.016396,-0.087909,1.911822,-0.656618,0.619728}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.019 A}
+{plotter:-0.961987,0.273096,-0.128377,1.795596,-0.934830,1.064830}
+{voltage:the vol is 3.340 V}
+{current:the cur is 0.038 A}
+{plotter:-0.859338,0.511409,-0.126017,1.592659,-0.467534,1.062446}
+{voltage:the vol is 3.380 V}
+{current:the cur is 0.010 A}
+{plotter:-0.698829,0.715288,-0.085099,1.312560,0.016113,1.202384}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.009 A}
+{plotter:-0.491269,0.871008,-0.013283,0.969255,-0.474381,1.117083}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.003 A}
+{plotter:-0.250632,0.968082,0.079028,0.580292,0.576806,1.048297}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.001 A}
+{plotter:0.006880,0.999976,0.179537,0.165777,0.951912,1.031587}
+{voltage:the vol is 3.393 V}
+{current:the cur is 0.004 A}
+{plotter:0.263929,0.964542,0.275039,-0.252820,0.304944,0.972729}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.018 A}
+{plotter:0.503208,0.864165,0.352478,-0.653938,1.322440,0.834159}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.026 A}
+{plotter:0.708606,0.705604,0.400003,-1.017209,1.319084,0.598219}
+{voltage:the vol is 3.325 V}
+{current:the cur is 0.016 A}
+{plotter:0.866293,0.499535,0.407941,-1.324646,1.558361,0.054458}
+{voltage:the vol is 3.349 V}
+{current:the cur is 0.031 A}
+{plotter:0.965654,0.259833,0.369616,-1.561691,1.550907,-0.247873}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.025 A}
+{plotter:0.999997,0.002636,0.281962,-1.718031,1.617986,-0.178062}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.046 A}
+{plotter:0.967010,-0.254739,0.145878,-1.788141,1.497635,-0.597029}
+{voltage:the vol is 3.329 V}
+{current:the cur is 0.019 A}
+{plotter:0.868915,-0.494962,-0.033701,-1.771530,1.081491,-0.623026}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.019 A}
+{plotter:0.712316,-0.701859,-0.248026,-1.672657,0.808089,-1.586556}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.048 A}
+{plotter:0.507756,-0.861501,-0.485034,-1.500546,0.585660,-1.576090}
+{voltage:the vol is 3.359 V}
+{current:the cur is 0.049 A}
+{plotter:0.269010,-0.963137,-0.730097,-1.268117,0.245317,-1.856348}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.024 A}
+{plotter:0.012151,-0.999926,-0.966975,-0.991278,-0.131645,-1.288312}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.003 A}
+{plotter:-0.245525,-0.969390,-1.178899,-0.687849,-0.535568,-1.045645}
+{voltage:the vol is 3.389 V}
+{current:the cur is 0.015 A}
+{plotter:-0.486671,-0.873585,-1.349725,-0.376383,-0.498217,-1.119830}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.008 A}
+{plotter:-0.695049,-0.718962,-1.465066,-0.074968,-0.833628,-1.211494}
+{voltage:the vol is 3.394 V}
+{current:the cur is 0.035 A}
+{plotter:-0.856630,-0.515931,-1.513342,0.199917,-1.452058,-0.992167}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.032 A}
+{plotter:-0.960534,-0.278163,-1.486656,0.434411,-1.147475,-0.777086}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.016 A}
+{plotter:-0.999765,-0.021666,-1.381449,0.618081,-1.919376,-0.170510}
+{voltage:the vol is 3.380 V}
+{current:the cur is 0.037 A}
+{plotter:-0.971683,0.236290,-1.198882,0.744483,-1.037127,0.223830}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.048 A}
+{plotter:-0.878177,0.478336,-0.944911,0.811442,-1.379696,0.441483}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.025 A}
+{plotter:-0.725544,0.688176,-0.630057,0.821031,-1.197908,0.758791}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.017 A}
+{plotter:-0.524060,0.851682,-0.268865,0.779255,-0.774819,0.943590}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.050 A}
+{plotter:-0.287291,0.957843,0.120895,0.695477,-0.643791,1.042279}
+{voltage:the vol is 3.355 V}
+{current:the cur is 0.009 A}
+{plotter:-0.031179,0.999514,0.519254,0.581612,-0.554600,1.462662}
+{voltage:the vol is 3.346 V}
+{current:the cur is 0.027 A}
+{plotter:0.227032,0.973887,0.905225,0.451160,-0.428459,1.246783}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.009 A}
+{plotter:0.469958,0.882689,1.258058,0.318143,-0.046796,1.302053}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.012 A}
+{plotter:0.681241,0.732059,1.558505,0.196024,0.583707,1.568843}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.019 A}
+{plotter:0.846656,0.532140,1.789994,0.096682,0.652449,1.221442}
+{voltage:the vol is 3.316 V}
+{current:the cur is 0.016 A}
+{plotter:0.955066,0.296393,1.939648,0.029516,0.808008,1.022562}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.018 A}
+{plotter:0.999172,0.040689,1.999082,0.000738,0.989598,0.417467}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.002 A}
+{plotter:0.976004,-0.217755,1.964923,0.012916,1.107023,-0.148581}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.042 A}
+{plotter:0.887121,-0.461537,1.839020,0.064778,0.907918,0.067067}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.009 A}
+{plotter:0.738509,-0.674244,1.628333,0.151315,0.904183,-0.207974}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.010 A}
+{plotter:0.540173,-0.841554,1.344500,0.264154,0.802042,-0.338834}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.013 A}
+{plotter:0.305468,-0.952202,1.003127,0.392192,0.873088,-0.693745}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.012 A}
+{plotter:0.050195,-0.998739,0.622824,0.522434,0.589441,-0.441699}
+{voltage:the vol is 3.388 V}
+{current:the cur is 0.016 A}
+{plotter:-0.208457,-0.978031,0.224068,0.640983,0.513209,-0.699313}
+{voltage:the vol is 3.381 V}
+{current:the cur is 0.048 A}
+{plotter:-0.453074,-0.891473,-0.172037,0.734112,0.299201,-0.781252}
+{voltage:the vol is 3.325 V}
+{current:the cur is 0.014 A}
+{plotter:-0.667186,-0.744892,-0.545033,0.789338,0.233426,-0.642698}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.034 A}
+{plotter:-0.836376,-0.548157,-0.876323,0.796428,-0.381403,-0.551664}
+{voltage:the vol is 3.318 V}
+{current:the cur is 0.001 A}
+{plotter:-0.949253,-0.314515,-1.150249,0.748256,-0.540160,-0.356693}
+{voltage:the vol is 3.316 V}
+{current:the cur is 0.048 A}
+{plotter:-0.998217,-0.059697,-1.354972,0.641462,-0.683463,-0.168029}
+{voltage:the vol is 3.322 V}
+{current:the cur is 0.001 A}
+{plotter:-0.979971,0.199141,-1.483094,0.476848,-0.600388,-0.173453}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.048 A}
+{plotter:-0.895744,0.444570,-1.531992,0.259496,-0.352807,0.077155}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.034 A}
+{plotter:-0.751207,0.660067,-1.503833,-0.001420,-0.732338,0.144527}
+{voltage:the vol is 3.359 V}
+{current:the cur is 0.034 A}
+{plotter:-0.556091,0.831121,-1.405286,-0.293104,-0.477637,0.305101}
+{voltage:the vol is 3.393 V}
+{current:the cur is 0.008 A}
+{plotter:-0.323534,0.946217,-1.246945,-0.599878,-0.146826,0.234587}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.028 A}
+{plotter:-0.069193,0.997603,-1.042515,-0.904130,0.025708,0.203279}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.049 A}
+{plotter:0.189807,0.981821,-0.807808,-1.187421,0.232692,0.968973}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.046 A}
+{plotter:0.436026,0.899934,-0.559622,-1.431674,0.403626,0.542173}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.008 A}
+{plotter:0.652889,0.757454,-0.314586,-1.620363,0.518827,0.606399}
+{voltage:the vol is 3.388 V}
+{current:the cur is 0.044 A}
+{plotter:0.825792,0.563975,-0.088044,-1.739628,0.424506,0.563807}
+{voltage:the vol is 3.340 V}
+{current:the cur is 0.050 A}
+{plotter:0.943095,0.332523,0.106950,-1.779240,0.404529,-0.286515}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.047 A}
+{plotter:0.996900,0.078683,0.260455,-1.733344,0.477268,-0.236442}
+{voltage:the vol is 3.384 V}
+{current:the cur is 0.024 A}
+{plotter:0.983583,-0.180455,0.366223,-1.600943,0.733272,-0.669622}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.013 A}
+{plotter:0.904042,-0.427443,0.422016,-1.386069,0.160859,-0.559325}
+{voltage:the vol is 3.319 V}
+{current:the cur is 0.017 A}
+{plotter:0.763632,-0.645651,0.429628,-1.097637,0.461217,-0.693213}
+{voltage:the vol is 3.359 V}
+{current:the cur is 0.025 A}
+{plotter:0.571807,-0.820388,0.394615,-0.748999,0.007048,-0.951420}
+{voltage:the vol is 3.313 V}
+{current:the cur is 0.034 A}
+{plotter:0.341482,-0.939888,0.325767,-0.357198,0.109754,-0.945632}
+{voltage:the vol is 3.388 V}
+{current:the cur is 0.011 A}
+{plotter:0.088166,-0.996106,0.234341,0.058010,0.031649,-0.871495}
+{voltage:the vol is 3.350 V}
+{current:the cur is 0.014 A}
+{plotter:-0.171087,-0.985256,0.133131,0.475306,-1.026008,-0.879443}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.004 A}
+{plotter:-0.418821,-0.908069,0.035433,0.873075,-1.206297,-0.752164}
+{voltage:the vol is 3.363 V}
+{current:the cur is 0.025 A}
+{plotter:-0.638355,-0.769742,-0.046022,1.230688,-0.669460,-0.486582}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.024 A}
+{plotter:-0.814910,-0.579588,-0.100089,1.529731,-1.476399,-0.472322}
+{voltage:the vol is 3.388 V}
+{current:the cur is 0.041 A}
+{plotter:-0.936596,-0.350411,-0.118102,1.755090,-1.306953,0.029223}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.048 A}
+{plotter:-0.995222,-0.097641,-0.094598,1.895845,-1.167977,0.395837}
+{voltage:the vol is 3.319 V}
+{current:the cur is 0.002 A}
+{plotter:-0.986839,0.161704,-0.027792,1.945886,-1.126505,0.903284}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.007 A}
+{plotter:-0.912013,0.410161,0.080214,1.904241,-1.003856,1.305276}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.047 A}
+{plotter:-0.775782,0.631002,0.223510,1.775073,-0.745879,1.331606}
+{voltage:the vol is 3.384 V}
+{current:the cur is 0.017 A}
+{plotter:-0.587317,0.809357,0.392736,1.567369,-0.583598,0.855687}
+{voltage:the vol is 3.352 V}
+{current:the cur is 0.042 A}
+{plotter:-0.359308,0.933219,0.575709,1.294325,-0.018600,0.989719}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.040 A}
+{plotter:-0.107107,0.994248,0.758264,0.972478,-0.019580,1.246435}
+{voltage:the vol is 3.380 V}
+{current:the cur is 0.027 A}
+{plotter:0.152306,0.988333,0.925253,0.620642,0.470848,1.373946}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.025 A}
+{plotter:0.401464,0.915875,1.061642,0.258715,0.763459,0.945371}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.003 A}
+{plotter:0.623591,0.781751,1.153624,-0.093557,0.660649,1.014990}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.034 A}
+{plotter:0.803732,0.594992,1.189669,-0.417795,0.932424,0.623248}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.039 A}
+{plotter:0.929758,0.368172,1.161440,-0.698075,1.389330,0.518754}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.044 A}
+{plotter:0.993183,0.116563,1.064513,-0.921854,1.967166,0.143543}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.027 A}
+{plotter:0.989738,-0.142894,0.898837,-1.080639,1.194004,-0.181841}
+{voltage:the vol is 3.394 V}
+{current:the cur is 0.036 A}
+{plotter:0.919654,-0.392730,0.668915,-1.170393,1.194409,-0.568217}
+{voltage:the vol is 3.319 V}
+{current:the cur is 0.001 A}
+{plotter:0.787650,-0.616123,0.383672,-1.191627,1.321625,-0.788048}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.012 A}
+{plotter:0.602613,-0.798034,0.056031,-1.149195,1.248908,-1.151101}
+{voltage:the vol is 3.389 V}
+{current:the cur is 0.049 A}
+{plotter:0.377003,-0.926212,-0.297798,-1.051803,0.668221,-0.982228}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.039 A}
+{plotter:0.126009,-0.992029,-0.659248,-0.911266,0.529385,-1.342324}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.002 A}
+{plotter:-0.133469,-0.991053,-1.008514,-0.741575,0.114897,-1.604041}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.037 A}
+{plotter:-0.383961,-0.923349,-1.325760,-0.557839,-0.100777,-1.234600}
+{voltage:the vol is 3.306 V}
+{current:the cur is 0.003 A}
+{plotter:-0.608600,-0.793477,-1.592366,-0.375165,-0.487799,-0.918613}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.033 A}
+{plotter:-0.792263,-0.610180,-1.792101,-0.207575,-0.786788,-1.143953}
+{voltage:the vol is 3.384 V}
+{current:the cur is 0.008 A}
+{plotter:-0.922583,-0.385799,-1.912175,-0.067010,-0.974613,-0.463083}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.008 A}
+{plotter:-0.990785,-0.135443,-1.944085,0.037485,-1.139626,-1.016592}
+{voltage:the vol is 3.306 V}
+{current:the cur is 0.024 A}
+{plotter:-0.992278,0.124032,-1.884194,0.100362,-1.371226,0.056745}
+{voltage:the vol is 3.348 V}
+{current:the cur is 0.016 A}
+{plotter:-0.926961,0.375157,-1.734017,0.119906,-1.485000,0.167476}
+{voltage:the vol is 3.339 V}
+{current:the cur is 0.017 A}
+{plotter:-0.799232,0.601022,-1.500184,0.098281,-0.998174,0.590412}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.044 A}
+{plotter:-0.617691,0.786421,-1.194090,0.041293,-1.420845,0.754933}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.012 A}
+{plotter:-0.394561,0.918870,-0.831235,-0.042112,-0.437501,0.762455}
+{voltage:the vol is 3.393 V}
+{current:the cur is 0.046 A}
+{plotter:-0.144865,0.989451,-0.430320,-0.140589,-0.668710,0.958612}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.016 A}
+{plotter:0.114584,0.993414,-0.012138,-0.241307,0.026491,0.873405}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.009 A}
+{plotter:0.366319,0.930489,0.401664,-0.330974,0.214279,0.951996}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.030 A}
+{plotter:0.593389,0.804915,0.789872,-0.396907,0.154739,0.892720}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.002 A}
+{plotter:0.780507,0.625147,1.132956,-0.428059,-0.129734,0.942261}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.036 A}
+{plotter:0.915073,0.403287,1.414211,-0.415936,0.123311,0.609160}
+{voltage:the vol is 3.381 V}
+{current:the cur is 0.009 A}
+{plotter:0.988028,0.154274,1.620716,-0.355340,0.952719,0.696849}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.018 A}
+{plotter:0.994459,-0.105126,1.744045,-0.244873,0.469511,0.628744}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.037 A}
+{plotter:0.933933,-0.357448,1.780687,-0.087179,0.612083,0.399067}
+{voltage:the vol is 3.362 V}
+{current:the cur is 0.011 A}
+{plotter:0.810526,-0.585703,1.732160,0.111108,0.500120,-0.420795}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.007 A}
+{plotter:0.632546,-0.774523,1.604801,0.339710,0.506665,-0.207258}
+{voltage:the vol is 3.336 V}
+{current:the cur is 0.041 A}
+{plotter:0.411977,-0.911194,1.409263,0.585309,0.406276,-0.030477}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.032 A}
+{plotter:0.163669,-0.986515,1.159736,0.832397,0.249435,-0.067752}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.031 A}
+{plotter:-0.095658,-0.995414,0.872972,1.064287,-0.010556,-0.639646}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.021 A}
+{plotter:-0.348544,-0.937292,0.567153,1.264241,0.037124,-0.751928}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.003 A}
+{plotter:-0.577964,-0.816063,0.260698,1.416626,-0.493856,-0.393699}
+{voltage:the vol is 3.326 V}
+{current:the cur is 0.010 A}
+{plotter:-0.768469,-0.639887,-0.028916,1.508021,-0.530654,-0.257416}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.001 A}
+{plotter:-0.907233,-0.420629,-0.286256,1.528210,-0.663953,-0.062374}
+{voltage:the vol is 3.362 V}
+{current:the cur is 0.037 A}
+{plotter:-0.984913,-0.173050,-0.498857,1.470970,-0.355425,0.259799}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.050 A}
+{plotter:-0.996279,0.086181,-0.657937,1.334622,-0.653523,0.331861}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.035 A}
+{plotter:-0.940567,0.339610,-0.758844,1.122289,-0.502295,0.345167}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.045 A}
+{plotter:-0.821525,0.570172,-0.801205,0.841846,-0.550119,0.570390}
+{voltage:the vol is 3.316 V}
+{current:the cur is 0.013 A}
+{plotter:-0.647171,0.762345,-0.788789,0.505554,0.278582,0.661993}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.023 A}
+{plotter:-0.429243,0.903189,-0.729071,0.129415,-0.278052,0.872563}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.019 A}
+{plotter:-0.182414,0.983222,-0.632560,-0.267732,0.663314,0.639873}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.013 A}
+{plotter:0.076697,0.997054,-0.511919,-0.665313,0.252358,0.643781}
+{voltage:the vol is 3.340 V}
+{current:the cur is 0.032 A}
+{plotter:0.330644,0.943756,-0.380949,-1.042236,0.365423,0.426289}
+{voltage:the vol is 3.355 V}
+{current:the cur is 0.020 A}
+{plotter:0.562328,0.826914,-0.253511,-1.378168,0.981597,0.032039}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.034 A}
+{plotter:0.756152,0.654396,-0.142460,-1.654764,0.844846,0.577169}
+{voltage:the vol is 3.341 V}
+{current:the cur is 0.039 A}
+{plotter:0.899063,0.437818,-0.058669,-1.856796,0.953230,0.313158}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.014 A}
+{plotter:0.981441,0.191762,-0.010202,-1.973085,1.041250,0.041322}
+{voltage:the vol is 3.319 V}
+{current:the cur is 0.000 A}
+{plotter:0.997739,-0.067205,-0.001715,-1.997193,0.977481,-0.667939}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.010 A}
+{plotter:0.946859,-0.321648,-0.034098,-1.927817,0.786990,-0.880638}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.045 A}
+{plotter:0.832228,-0.554434,-0.104413,-1.768868,0.517385,-0.895537}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.018 A}
+{plotter:0.661562,-0.749890,-0.206108,-1.529232,0.583108,-1.137928}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.037 A}
+{plotter:0.446354,-0.894857,-0.329508,-1.222215,0.220367,-1.113714}
+{voltage:the vol is 3.345 V}
+{current:the cur is 0.049 A}
+{plotter:0.201093,-0.979572,-0.462539,-0.864724,-0.034327,-1.050073}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.048 A}
+{plotter:-0.057708,-0.998334,-0.591642,-0.476226,-0.363591,-1.088656}
+{voltage:the vol is 3.355 V}
+{current:the cur is 0.000 A}
+{plotter:-0.312623,-0.949877,-0.702805,-0.077559,-0.605083,-1.130780}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.030 A}
+{plotter:-0.546490,-0.837466,-0.782650,0.310329,-0.650728,-0.951521}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.025 A}
+{plotter:-0.743561,-0.668668,-0.819484,0.667638,-1.440935,-0.671277}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.016 A}
+{plotter:-0.890569,-0.454849,-0.804255,0.976882,-1.402886,-0.399553}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.018 A}
+{plotter:-0.977614,-0.210405,-0.731337,1.223892,-1.906705,-0.072336}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.005 A}
+{plotter:-0.998837,0.048205,-0.599078,1.398597,-1.222069,0.432117}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.045 A}
+{plotter:-0.952809,0.303570,-0.410090,1.495528,-1.072079,0.447718}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.024 A}
+{plotter:-0.842628,0.538496,-0.171234,1.514022,-1.466571,0.691310}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.040 A}
+{plotter:-0.675714,0.737164,0.106683,1.458110,-1.019044,1.310322}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.026 A}
+{plotter:-0.463303,0.886200,0.409503,1.336109,-0.468919,1.660237}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.001 A}
+{plotter:-0.219699,0.975568,0.720543,1.159940,-0.415543,1.359733}
+{voltage:the vol is 3.394 V}
+{current:the cur is 0.013 A}
+{plotter:0.038698,0.999251,1.021627,0.944230,0.037895,1.842181}
+{voltage:the vol is 3.300 V}
+{current:the cur is 0.049 A}
+{plotter:0.294490,0.955655,1.294234,0.705255,0.279866,1.689101}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.048 A}
+{plotter:0.530453,0.847714,1.520698,0.459792,0.550243,1.814266}
+{voltage:the vol is 3.339 V}
+{current:the cur is 0.032 A}
+{plotter:0.730701,0.682698,1.685382,0.223980,0.827101,1.536483}
+{voltage:the vol is 3.395 V}
+{current:the cur is 0.041 A}
+{plotter:0.881751,0.471715,1.775740,0.012238,1.087888,0.526745}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.050 A}
+{plotter:0.973433,0.228972,1.783199,-0.163667,1.266639,0.393189}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.024 A}
+{plotter:0.999574,-0.029188,1.703803,-0.295345,1.338472,0.398826}
+{voltage:the vol is 3.362 V}
+{current:the cur is 0.022 A}
+{plotter:0.958414,-0.285382,1.538570,-0.378258,1.553776,-0.226848}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.046 A}
+{plotter:0.852724,-0.522362,1.293536,-0.411912,0.934493,-0.478653}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.024 A}
+{plotter:0.689620,-0.724171,0.979486,-0.399754,1.356737,-0.495522}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.011 A}
+{plotter:0.480084,-0.877222,0.611374,-0.348795,1.070861,-0.752155}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.015 A}
+{plotter:0.238225,-0.971210,0.207483,-0.268967,1.019434,-0.985933}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.044 A}
+{plotter:-0.019675,-0.999806,-0.211639,-0.172290,0.793583,-1.015823}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.040 A}
+{plotter:-0.276249,-0.961086,-0.624384,-0.071885,0.454349,-1.056834}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.029 A}
+{plotter:-0.514224,-0.857656,-1.009365,0.019083,-0.133974,-0.905800}
+{voltage:the vol is 3.362 V}
+{current:the cur is 0.016 A}
+{plotter:-0.717576,-0.696480,-1.346691,0.088461,-0.151251,-1.121791}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.043 A}
+{plotter:-0.872614,-0.488410,-1.619144,0.126085,-0.687915,-0.567490}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.002 A}
+{plotter:-0.968899,-0.247456,-1.813194,0.124605,-0.503948,-0.842562}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.011 A}
+{plotter:-0.999948,0.010160,-1.919785,0.080112,-0.635603,-0.145668}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.046 A}
+{plotter:-0.963671,0.267091,-1.934839,-0.007496,-0.792653,-0.376126}
+{voltage:the vol is 3.346 V}
+{current:the cur is 0.045 A}
+{plotter:-0.862510,0.506039,-1.859447,-0.134426,-0.835791,0.145351}
+{voltage:the vol is 3.389 V}
+{current:the cur is 0.015 A}
+{plotter:-0.703277,0.710916,-1.699741,-0.293187,-0.727470,0.206556}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.016 A}
+{plotter:-0.496692,0.867927,-1.466456,-0.473072,-0.644726,0.419019}
+{voltage:the vol is 3.348 V}
+{current:the cur is 0.005 A}
+{plotter:-0.256665,0.966501,-1.174203,-0.660873,-0.420095,0.182055}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.004 A}
+{plotter:0.000644,1.000000,-0.840518,-0.841805,-0.458099,0.769012}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.035 A}
+{plotter:0.257909,0.966169,-0.484736,-1.000553,0.126330,0.508099}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.032 A}
+{plotter:0.497809,0.867287,-0.126772,-1.122389,0.306400,0.516026}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.021 A}
+{plotter:0.704191,0.710010,0.214115,-1.194268,0.168127,0.590688}
+{voltage:the vol is 3.372 V}
+{current:the cur is 0.031 A}
+{plotter:0.863161,0.504929,0.520488,-1.205834,0.699767,0.291954}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.028 A}
+{plotter:0.964014,0.265850,0.777764,-1.150264,0.763148,0.152373}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.032 A}
+{plotter:0.999961,0.008872,0.975036,-1.024885,0.520664,-0.002808}
+{voltage:the vol is 3.317 V}
+{current:the cur is 0.009 A}
+{plotter:0.968580,-0.248703,1.105636,-0.831523,0.074603,-0.178148}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.049 A}
+{plotter:0.871985,-0.489533,1.167415,-0.576554,0.041934,-0.295092}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.023 A}
+{plotter:0.716679,-0.697403,1.162707,-0.270651,0.713838,-0.333483}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.032 A}
+{plotter:0.513119,-0.858317,1.098006,0.071767,0.163444,-0.435151}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.030 A}
+{plotter:0.275012,-0.961441,0.983361,0.433337,0.106123,-0.835474}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.005 A}
+{plotter:0.018387,-0.999831,0.831555,0.794780,-0.145686,-0.801695}
+{voltage:the vol is 3.329 V}
+{current:the cur is 0.024 A}
+{plotter:-0.239475,-0.970903,0.657107,1.136057,-0.677514,-0.564052}
+{voltage:the vol is 3.394 V}
+{current:the cur is 0.043 A}
+{plotter:-0.481213,-0.876604,0.475184,1.437611,-0.578433,-0.365233}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.043 A}
+{plotter:-0.690552,-0.723283,0.300487,1.681591,-0.771844,-0.040441}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.018 A}
+{plotter:-0.853396,-0.521264,0.146200,1.852991,-0.848102,0.444134}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.010 A}
+{plotter:-0.958780,-0.284148,0.023061,1.940622,-0.790214,0.451956}
+{voltage:the vol is 3.349 V}
+{current:the cur is 0.035 A}
+{plotter:-0.999611,-0.027901,-0.061367,1.937855,-0.946364,0.817483}
+{voltage:the vol is 3.362 V}
+{current:the cur is 0.012 A}
+{plotter:-0.973137,0.230225,-0.103187,1.843088,-0.659318,0.732092}
+{voltage:the vol is 3.319 V}
+{current:the cur is 0.043 A}
+{plotter:-0.881143,0.472850,-0.102384,1.659902,-0.628257,0.679714}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.046 A}
+{plotter:-0.729822,0.683638,-0.062752,1.396891,-0.444324,0.727183}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.035 A}
+{plotter:-0.529361,0.848397,0.008461,1.067183,-0.339919,1.244980}
+{voltage:the vol is 3.300 V}
+{current:the cur is 0.014 A}
+{plotter:-0.293259,0.956033,0.101159,0.687678,-0.094705,1.179802}
+{voltage:the vol is 3.319 V}
+{current:the cur is 0.022 A}
+{plotter:-0.037412,0.999300,0.203221,0.278045,0.378418,1.134770}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.036 A}
+{plotter:0.220954,0.975284,0.301468,-0.140440,0.953272,0.977048}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.039 A}
+{plotter:0.464443,0.885603,0.382719,-0.546167,1.323647,0.803914}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.046 A}
+{plotter:0.676662,0.736294,0.434851,-0.918473,0.806396,0.564974}
+{voltage:the vol is 3.375 V}
+{current:the cur is 0.041 A}
+{plotter:0.843321,0.537410,0.447787,-1.238854,0.895064,0.386703}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.030 A}
+{plotter:0.953199,0.302343,0.414354,-1.492044,1.298290,-0.034823}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.016 A}
+{plotter:0.998899,0.046920,0.330925,-1.666872,1.738700,-0.493767}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.029 A}
+{plotter:0.977343,-0.211663,0.197823,-1.756863,1.411393,-0.598081}
+{voltage:the vol is 3.316 V}
+{current:the cur is 0.040 A}
+{plotter:0.889982,-0.455995,0.019434,-1.760531,0.892475,-0.866442}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.034 A}
+{plotter:0.742700,-0.669625,-0.195963,-1.681363,0.985780,-1.038135}
+{voltage:the vol is 3.394 V}
+{current:the cur is 0.012 A}
+{plotter:0.545411,-0.838169,-0.436660,-1.527482,0.693450,-1.407624}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.012 A}
+{plotter:0.311400,-0.950279,-0.688229,-1.311030,0.320655,-1.946613}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.014 A}
+{plotter:0.056423,-0.998407,-0.934453,-1.047299,-0.016573,-1.929499}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.009 A}
+{plotter:-0.202353,-0.979313,-1.158396,-0.753689,-0.311522,-1.431731}
+{voltage:the vol is 3.336 V}
+{current:the cur is 0.011 A}
+{plotter:-0.447505,-0.894281,-1.343549,-0.448538,-0.563554,-1.019498}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.036 A}
+{plotter:-0.662527,-0.749038,-1.474987,-0.149933,-0.830704,-1.542282}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.024 A}
+{plotter:-0.832941,-0.553362,-1.540432,0.125449,-0.908407,-0.814621}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.035 A}
+{plotter:-0.947273,-0.320429,-1.531174,0.363371,-1.145181,-0.774691}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.039 A}
+{plotter:-0.997825,-0.065921,-1.442767,0.552883,-1.834759,-0.448128}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.032 A}
+{plotter:-0.981194,0.193025,-1.275465,0.686923,-1.119651,0.186613}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.049 A}
+{plotter:-0.898499,0.438975,-1.034353,0.762645,-1.830057,0.310231}
+{voltage:the vol is 3.346 V}
+{current:the cur is 0.011 A}
+{plotter:-0.755309,0.655369,-0.729171,0.781447,-1.611427,0.658037}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.020 A}
+{plotter:-0.561264,0.827637,-0.373821,0.748706,-0.981849,0.972622}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.032 A}
+{plotter:-0.329429,0.944180,0.014385,0.673242,-0.830085,1.173718}
+{voltage:the vol is 3.322 V}
+{current:the cur is 0.045 A}
+{plotter:-0.075413,0.997152,0.415721,0.566548,-0.689960,1.287213}
+{voltage:the vol is 3.400 V}
+{current:the cur is 0.015 A}
+{plotter:0.183680,0.982986,0.809208,0.441848,0.123486,1.139717}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.030 A}
+{plotter:0.430405,0.902636,1.173862,0.313052,0.362153,1.430659}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.023 A}
+{plotter:0.648152,0.761511,1.489969,0.193666,0.259659,1.199646}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.002 A}
+{plotter:0.822259,0.569114,1.740279,0.095761,0.776732,0.630947}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.009 A}
+{plotter:0.941003,0.338398,1.911062,0.029056,0.764109,0.496577}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.009 A}
+{plotter:0.996390,0.084899,1.992955,0.000176,0.940300,0.495575}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.006 A}
+{plotter:0.984690,-0.174317,1.981530,0.012151,1.003655,0.208788}
+{voltage:the vol is 3.340 V}
+{current:the cur is 0.045 A}
+{plotter:0.906691,-0.421796,1.877568,0.064187,1.039504,-0.299603}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.045 A}
+{plotter:0.767644,-0.640876,1.687004,0.151716,0.851102,-0.604906}
+{voltage:the vol is 3.348 V}
+{current:the cur is 0.011 A}
+{plotter:0.576913,-0.816806,1.420556,0.266731,1.039393,-0.257381}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.050 A}
+{plotter:0.347338,-0.937740,1.093059,0.398384,0.691721,-0.650325}
+{voltage:the vol is 3.355 V}
+{current:the cur is 0.049 A}
+{plotter:0.094376,-0.995537,0.722547,0.533794,0.646108,-0.607691}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.021 A}
+{plotter:-0.164939,-0.986304,0.329147,0.659025,-0.046813,-0.757544}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.016 A}
+{plotter:-0.413149,-0.910663,-0.066153,0.760146,0.499386,-0.767288}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.046 A}
+{plotter:-0.633542,-0.773708,-0.442769,0.824316,-0.144328,-0.755141}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.036 A}
+{plotter:-0.811279,-0.584659,-0.781750,0.840808,-0.623580,-0.566296}
+{voltage:the vol is 3.363 V}
+{current:the cur is 0.040 A}
+{plotter:-0.934392,-0.356245,-1.066885,0.801899,-0.005643,-0.426291}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.031 A}
+{plotter:-0.994593,-0.103846,-1.285621,0.703566,-0.451958,-0.366762}
+{voltage:the vol is 3.336 V}
+{current:the cur is 0.020 A}
+{plotter:-0.987829,0.155546,-1.429730,0.545927,-0.745651,-0.138668}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.038 A}
+{plotter:-0.914554,0.404465,-1.495698,0.333409,-0.794025,0.071673}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.011 A}
+{plotter:-0.779702,0.626151,-1.484792,0.074611,-0.419484,-0.054258}
+{voltage:the vol is 3.350 V}
+{current:the cur is 0.001 A}
+{plotter:-0.592353,0.805679,-1.402831,-0.218125,-0.556957,0.164806}
+{voltage:the vol is 3.363 V}
+{current:the cur is 0.032 A}
+{plotter:-0.365121,0.930960,-1.259653,-0.529412,-0.058397,0.095559}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.050 A}
+{plotter:-0.113305,0.993560,-1.068347,-0.841736,0.159894,0.629142}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.011 A}
+{plotter:0.146139,0.989264,-0.844275,-1.136552,0.259600,0.731316}
+{voltage:the vol is 3.332 V}
+{current:the cur is 0.009 A}
+{plotter:0.395744,0.918361,-0.603972,-1.395460,0.387270,0.645237}
+{voltage:the vol is 3.362 V}
+{current:the cur is 0.037 A}
+{plotter:0.618703,0.785625,-0.364002,-1.601408,0.434653,0.228548}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.036 A}
+{plotter:0.800005,0.599993,-0.139822,-1.739833,0.581963,0.069804}
+{voltage:the vol is 3.379 V}
+{current:the cur is 0.038 A}
+{plotter:0.927444,0.373963,0.055231,-1.799656,0.656078,-0.313729}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.041 A}
+{plotter:0.992437,0.122755,0.210797,-1.774077,0.701540,-0.045181}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.040 A}
+{plotter:0.990610,-0.136718,0.320116,-1.661104,0.651023,-0.255667}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.039 A}
+{plotter:0.922085,-0.386987,0.380386,-1.463785,0.205622,-0.584278}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.016 A}
+{plotter:0.791477,-0.611199,0.392830,-1.190124,0.134807,-0.982740}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.034 A}
+{plotter:0.607578,-0.794260,0.362477,-0.852680,0.468457,-0.860623}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.001 A}
+{plotter:0.382772,-0.923843,0.297668,-0.467876,-0.598457,-0.962163}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.032 A}
+{plotter:0.132193,-0.991224,0.209326,-0.055061,-0.034185,-0.923404}
+{voltage:the vol is 3.322 V}
+{current:the cur is 0.005 A}
+{plotter:-0.127286,-0.991866,0.110054,0.364625,-0.387463,-0.942264}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.037 A}
+{plotter:-0.378195,-0.925726,0.013105,0.769494,-0.837049,-0.921033}
+{voltage:the vol is 3.352 V}
+{current:the cur is 0.043 A}
+{plotter:-0.603640,-0.797257,-0.068680,1.138599,-1.237111,-0.654109}
+{voltage:the vol is 3.381 V}
+{current:the cur is 0.027 A}
+{plotter:-0.788442,-0.615109,-0.123903,1.452981,-1.430017,-0.492005}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.006 A}
+{plotter:-0.920159,-0.391546,-0.143532,1.696785,-1.394586,-0.083189}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.014 A}
+{plotter:-0.989921,-0.141620,-0.121648,1.858194,-1.302332,-0.097659}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.007 A}
+{plotter:-0.993032,0.117841,-0.055968,1.930097,-1.279351,0.899134}
+{voltage:the vol is 3.345 V}
+{current:the cur is 0.032 A}
+{plotter:-0.929283,0.369368,0.051909,1.910475,-1.026374,0.822309}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.014 A}
+{plotter:-0.802965,0.596026,0.196528,1.802459,-0.832242,1.254251}
+{voltage:the vol is 3.362 V}
+{current:the cur is 0.006 A}
+{plotter:-0.622584,0.782553,0.368902,1.614070,-0.590515,0.945950}
+{voltage:the vol is 3.345 V}
+{current:the cur is 0.008 A}
+{plotter:-0.400284,0.916391,0.557098,1.357667,-0.174890,1.682718}
+{voltage:the vol is 3.317 V}
+{current:the cur is 0.006 A}
+{plotter:-0.151033,0.988529,0.747045,1.049112,0.112663,1.093063}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.028 A}
+{plotter:0.108386,0.994109,0.923523,0.706750,0.308736,1.536696}
+{voltage:the vol is 3.316 V}
+{current:the cur is 0.030 A}
+{plotter:0.360509,0.932756,1.071248,0.350231,0.567271,1.233845}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.044 A}
+{plotter:0.588358,0.808601,1.175992,-0.000724,0.878233,1.038636}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.016 A}
+{plotter:0.776593,0.630002,1.225655,-0.327531,0.952174,1.039142}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.008 A}
+{plotter:0.912540,0.408986,1.211210,-0.613871,0.974141,0.625585}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.039 A}
+{plotter:0.987047,0.160433,1.127463,-0.846631,1.561063,0.204276}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.047 A}
+{plotter:0.995095,-0.098922,0.973562,-1.016629,1.043822,-0.110293}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.040 A}
+{plotter:0.936144,-0.351616,0.753228,-1.119061,1.443415,-0.367286}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.026 A}
+{plotter:0.814163,-0.580637,0.474678,-1.153647,0.991911,-0.887527}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.030 A}
+{plotter:0.637364,-0.770563,0.150247,-1.124481,0.984145,-1.187913}
+{voltage:the vol is 3.306 V}
+{current:the cur is 0.047 A}
+{plotter:0.417652,-0.908607,-0.204276,-1.039580,0.996683,-1.501723}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.031 A}
+{plotter:0.169819,-0.985475,-0.570550,-0.910188,0.558918,-1.343628}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.028 A}
+{plotter:-0.089448,-0.995992,-0.928770,-0.749875,0.202718,-1.124732}
+{voltage:the vol is 3.375 V}
+{current:the cur is 0.046 A}
+{plotter:-0.342692,-0.939448,-1.258876,-0.573492,-0.282347,-1.626048}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.019 A}
+{plotter:-0.572863,-0.819651,-1.541793,-0.396068,-0.489893,-1.167457}
+{voltage:the vol is 3.348 V}
+{current:the cur is 0.014 A}
+{plotter:-0.764463,-0.644668,-1.760636,-0.231711,-0.691940,-1.319404}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.037 A}
+{plotter:-0.904592,-0.426279,-1.901788,-0.092604,-0.923916,-0.859674}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.036 A}
+{plotter:-0.983815,-0.179189,-1.955785,0.011844,-1.214540,-0.639234}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.046 A}
+{plotter:-0.996798,0.079966,-1.917960,0.075635,-1.146474,-0.387011}
+{voltage:the vol is 3.381 V}
+{current:the cur is 0.047 A}
+{plotter:-0.942666,0.333737,-1.788774,0.096559,-1.349058,0.255961}
+{voltage:the vol is 3.389 V}
+{current:the cur is 0.010 A}
+{plotter:-0.825065,0.565037,-1.573848,0.076283,-1.126506,-0.066721}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.008 A}
+{plotter:-0.651913,0.758294,-1.283661,0.020165,-0.955553,0.488065}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.025 A}
+{plotter:-0.434868,0.900494,-0.932953,-0.063218,-1.043792,0.722265}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.030 A}
+{plotter:-0.188543,0.982065,-0.539855,-0.162770,-0.698003,0.935791}
+{voltage:the vol is 3.391 V}
+{current:the cur is 0.044 A}
+{plotter:0.070477,0.997513,-0.124815,-0.265769,-0.724607,0.853716}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.037 A}
+{plotter:0.324751,0.945799,0.290619,-0.358884,-0.545068,0.943995}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.019 A}
+{plotter:0.557160,0.830405,0.685087,-0.429234,-0.430900,0.855239}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.004 A}
+{plotter:0.752056,0.659100,1.038674,-0.465438,0.137822,0.746317}
+{voltage:the vol is 3.379 V}
+{current:the cur is 0.034 A}
+{plotter:0.896315,0.443417,1.334080,-0.458550,0.703557,0.816854}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.023 A}
+{plotter:0.980226,0.197879,1.557616,-0.402837,0.557951,0.749260}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.016 A}
+{plotter:0.998139,-0.060982,1.699956,-0.296322,0.647580,0.462313}
+{voltage:the vol is 3.340 V}
+{current:the cur is 0.013 A}
+{plotter:0.948847,-0.315737,1.756618,-0.141076,0.687426,-0.036479}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.026 A}
+{plotter:0.835669,-0.549233,1.728133,0.056795,0.662144,-0.152912}
+{voltage:the vol is 3.345 V}
+{current:the cur is 0.045 A}
+{plotter:0.666226,-0.745750,1.619892,0.287440,0.465039,-0.716034}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.035 A}
+{plotter:0.451926,-0.892055,1.441693,0.537840,0.372311,-0.580992}
+{voltage:the vol is 3.306 V}
+{current:the cur is 0.010 A}
+{plotter:0.207198,-0.978299,1.207013,0.792617,0.224314,-0.632710}
+{voltage:the vol is 3.338 V}
+{current:the cur is 0.026 A}
+{plotter:-0.051481,-0.998674,0.932067,1.035028,0.037977,-0.610652}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.015 A}
+{plotter:-0.306693,-0.951808,0.634698,1.248084,-0.130473,-0.391806}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.033 A}
+{plotter:-0.541256,-0.840858,0.333200,1.415712,-0.381499,-0.054282}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.009 A}
+{plotter:-0.739376,-0.673293,0.045128,1.523881,-0.681446,0.010991}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.006 A}
+{plotter:-0.887714,-0.460394,-0.213811,1.561618,-0.296808,-0.225093}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.040 A}
+{plotter:-0.976283,-0.216498,-0.430718,1.521848,-0.337328,0.056443}
+{voltage:the vol is 3.322 V}
+{current:the cur is 0.011 A}
+{plotter:-0.999119,0.041975,-0.596252,1.401985,-0.692896,0.172006}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.046 A}
+{plotter:-0.954684,0.297622,-0.705120,1.204248,-0.019927,0.321857}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.009 A}
+{plotter:-0.845970,0.533230,-0.756278,0.935663,-0.589645,0.608355}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.023 A}
+{plotter:-0.680298,0.732936,-0.752838,0.607758,-0.496817,0.713514}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.018 A}
+{plotter:-0.468821,0.883293,-0.701684,0.235958,-0.352655,0.801112}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.032 A}
+{plotter:-0.225779,0.974179,-0.612835,-0.161278,0.549641,0.617893}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.005 A}
+{plotter:0.032465,0.999473,-0.498597,-0.563528,0.165382,0.787531}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.024 A}
+{plotter:0.288524,0.957473,-0.372566,-0.949614,0.527696,0.819634}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.009 A}
+{plotter:0.525156,0.851006,-0.248561,-1.298873,1.077830,0.207962}
+{voltage:the vol is 3.379 V}
+{current:the cur is 0.011 A}
+{plotter:0.726429,0.687242,-0.139550,-1.592408,0.778731,0.604072}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.048 A}
+{plotter:0.878792,0.477205,-0.056655,-1.814239,1.141204,-0.184919}
+{voltage:the vol is 3.322 V}
+{current:the cur is 0.010 A}
+{plotter:0.971986,0.235039,-0.008307,-1.952279,0.983785,-0.304067}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.003 A}
+{plotter:0.999737,-0.022953,0.000400,-1.999073,1.001530,-0.818042}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.017 A}
+{plotter:0.960175,-0.279399,-0.031901,-1.952251,0.857873,-0.632546}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.035 A}
+{plotter:0.855965,-0.517034,-0.102737,-1.814668,0.617627,-1.185817}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.018 A}
+{plotter:0.694123,-0.719856,-0.205972,-1.594218,0.569427,-1.224225}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.036 A}
+{plotter:0.485546,-0.874211,-0.332250,-1.303342,-0.089189,-1.370724}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.027 A}
+{plotter:0.244277,-0.969705,-0.469694,-0.958249,0.015551,-1.352414}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.007 A}
+{plotter:-0.013439,-0.999910,-0.604793,-0.577916,-0.394827,-1.406226}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.007 A}
+{plotter:-0.270250,-0.962790,-0.723422,-0.182923,-0.705991,-1.268298}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.019 A}
+{plotter:-0.508865,-0.860846,-0.811927,0.205803,-1.067961,-0.883118}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.021 A}
+{plotter:-0.713218,-0.700942,-0.858193,0.568244,-1.626137,-0.802486}
+{voltage:the vol is 3.348 V}
+{current:the cur is 0.008 A}
+{plotter:-0.869551,-0.493843,-0.852622,0.886480,-1.375964,-0.485299}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.015 A}
+{plotter:-0.967337,-0.253494,-0.788951,1.145723,-1.355522,-0.143491}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.044 A}
+{plotter:-0.999992,0.003923,-0.664844,1.335141,-1.774525,0.196613}
+{voltage:the vol is 3.343 V}
+{current:the cur is 0.034 A}
+{plotter:-0.965318,0.261076,-0.482229,1.448408,-1.343235,0.390034}
+{voltage:the vol is 3.329 V}
+{current:the cur is 0.042 A}
+{plotter:-0.865650,0.500650,-0.247335,1.483964,-1.064489,0.880032}
+{voltage:the vol is 3.384 V}
+{current:the cur is 0.016 A}
+{plotter:-0.707697,0.706516,0.029568,1.444962,-1.107385,1.096738}
+{voltage:the vol is 3.336 V}
+{current:the cur is 0.041 A}
+{plotter:-0.502095,0.864812,0.334715,1.338905,-0.765474,1.022792}
+{voltage:the vol is 3.398 V}
+{current:the cur is 0.018 A}
+{plotter:-0.262688,0.964881,0.651641,1.177016,-0.609721,1.085398}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.028 A}
+{plotter:-0.005593,0.999984,0.962188,0.973374,-0.032519,1.229001}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.027 A}
+{plotter:0.251878,0.967759,1.247638,0.743882,0.237653,1.061753}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.032 A}
+{plotter:0.492390,0.870375,1.489920,0.505140,0.543845,1.683176}
+{voltage:the vol is 3.363 V}
+{current:the cur is 0.044 A}
+{plotter:0.699750,0.714388,1.672793,0.273294,0.699912,1.487846}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.006 A}
+{plotter:0.859995,0.510302,1.782940,0.062950,0.924583,0.954832}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.010 A}
+{plotter:0.962338,0.271857,1.810891,-0.113784,1.105002,0.832311}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.039 A}
+{plotter:0.999886,0.015109,1.751713,-0.248059,1.502913,0.240609}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.007 A}
+{plotter:0.970112,-0.242657,1.605423,-0.334801,1.038813,0.065081}
+{voltage:the vol is 3.344 V}
+{current:the cur is 0.045 A}
+{plotter:0.875021,-0.484085,1.377095,-0.372947,1.623241,-0.250125}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.036 A}
+{plotter:0.721015,-0.692920,1.076635,-0.365394,1.523724,-0.562434}
+{voltage:the vol is 3.304 V}
+{current:the cur is 0.041 A}
+{plotter:0.518463,-0.855100,0.718270,-0.318655,0.911539,-0.742534}
+{voltage:the vol is 3.395 V}
+{current:the cur is 0.037 A}
+{plotter:0.281003,-0.959707,0.319738,-0.242268,0.677202,-0.948777}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.047 A}
+{plotter:0.024623,-0.999697,-0.098734,-0.147980,0.603892,-1.054209}
+{voltage:the vol is 3.355 V}
+{current:the cur is 0.032 A}
+{plotter:-0.233415,-0.972377,-0.515617,-0.048787,-0.035963,-1.048347}
+{voltage:the vol is 3.355 V}
+{current:the cur is 0.028 A}
+{plotter:-0.475737,-0.879588,-0.909356,0.042117,0.194633,-1.192492}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.002 A}
+{plotter:-0.686027,-0.727576,-1.259651,0.112404,0.028199,-0.870163}
+{voltage:the vol is 3.388 V}
+{current:the cur is 0.006 A}
+{plotter:-0.850128,-0.526576,-1.548656,0.151599,-0.643885,-1.170232}
+{voltage:the vol is 3.375 V}
+{current:the cur is 0.045 A}
+{plotter:-0.956990,-0.290122,-1.762037,0.151942,-0.612581,-0.663471}
+{voltage:the vol is 3.355 V}
+{current:the cur is 0.010 A}
+{plotter:-0.999417,-0.034135,-1.889794,0.109040,-0.644166,-0.224128}
+{voltage:the vol is 3.346 V}
+{current:the cur is 0.016 A}
+{plotter:-0.974554,0.224151,-1.926825,0.022284,-0.741712,-0.297190}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.009 A}
+{plotter:-0.884075,0.467345,-1.873174,-0.105024,-0.862207,-0.325244}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.044 A}
+{plotter:-0.734071,0.679073,-1.733964,-0.265822,-0.746713,0.466015}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.020 A}
+{plotter:-0.534642,0.845079,-1.519011,-0.449727,-0.537674,-0.065238}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.042 A}
+{plotter:-0.299216,0.954185,-1.242151,-0.643719,-0.379211,0.415625}
+{voltage:the vol is 3.371 V}
+{current:the cur is 0.000 A}
+{plotter:-0.043644,0.999047,-0.920325,-0.833038,-0.122777,0.571181}
+{voltage:the vol is 3.379 V}
+{current:the cur is 0.028 A}
+{plotter:0.214867,0.976643,-0.572485,-1.002220,0.107228,0.920992}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.023 A}
+{plotter:0.458911,0.888482,-0.218388,-1.136211,0.382550,0.675827}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.002 A}
+{plotter:0.672057,0.740500,0.122637,-1.221476,0.651529,0.704483}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.030 A}
+{plotter:0.839953,0.542660,0.432875,-1.247030,0.117311,0.533330}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.031 A}
+{plotter:0.951295,0.308282,0.697274,-1.205316,0.477008,0.306747}
+{voltage:the vol is 3.372 V}
+{current:the cur is 0.021 A}
+{plotter:0.998587,0.053148,0.904308,-1.092865,0.543608,0.002558}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.032 A}
+{plotter:0.978644,-0.205564,1.046589,-0.910698,0.969053,-0.188233}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.016 A}
+{plotter:0.892809,-0.450436,1.121190,-0.664428,0.344178,-0.403152}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.029 A}
+{plotter:0.746861,-0.664980,1.129667,-0.364056,0.491058,-0.462192}
+{voltage:the vol is 3.304 V}
+{current:the cur is 0.009 A}
+{plotter:0.550628,-0.834751,1.077782,-0.023474,-0.202565,-0.534035}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.038 A}
+{plotter:0.317321,-0.948318,0.974948,0.340306,-0.351830,-0.311965}
+{voltage:the vol is 3.337 V}
+{current:the cur is 0.045 A}
+{plotter:0.062649,-0.998036,0.833439,0.708142,-0.397197,-0.438297}
+{voltage:the vol is 3.359 V}
+{current:the cur is 0.046 A}
+{plotter:-0.196242,-0.980556,0.667424,1.059908,-0.252037,-0.273824}
+{voltage:the vol is 3.384 V}
+{current:the cur is 0.032 A}
+{plotter:-0.441919,-0.897055,0.491890,1.375728,-0.520206,-0.579012}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.002 A}
+{plotter:-0.657842,-0.753156,0.321530,1.637215,-0.814834,-0.009219}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.033 A}
+{plotter:-0.829473,-0.558546,0.169684,1.828631,-0.863787,-0.282831}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.010 A}
+{plotter:-0.945256,-0.326331,0.047388,1.937899,-0.908366,0.506724}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.041 A}
+{plotter:-0.997394,-0.072143,-0.037392,1.957397,-0.738645,0.738470}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.038 A}
+{plotter:-0.982379,0.186902,-0.080286,1.884471,-0.619333,0.223848}
+{voltage:the vol is 3.343 V}
+{current:the cur is 0.032 A}
+{plotter:-0.901219,0.433363,-0.080781,1.721658,-0.654271,0.996755}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.012 A}
+{plotter:-0.759381,0.650646,-0.042193,1.476570,-0.387877,0.992157}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.000 A}
+{plotter:-0.566414,0.824121,0.028648,1.161477,0.027877,0.988599}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.048 A}
+{plotter:-0.335311,0.942108,0.121962,0.792584,0.483232,1.033640}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.030 A}
+{plotter:-0.081631,0.996663,0.225817,0.389079,0.503067,1.011581}
+{voltage:the vol is 3.336 V}
+{current:the cur is 0.007 A}
+{plotter:0.177545,0.984113,0.327075,-0.028015,0.628909,1.081861}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.041 A}
+{plotter:0.424767,0.905303,0.412444,-0.437091,0.719310,0.903410}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.032 A}
+{plotter:0.643390,0.765539,0.469537,-0.817243,0.793539,0.638764}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.016 A}
+{plotter:0.818693,0.574231,0.487888,-1.149499,1.473842,0.297558}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.025 A}
+{plotter:0.938874,0.344261,0.459822,-1.417926,1.243221,0.122754}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.018 A}
+{plotter:0.995841,0.091111,0.381152,-1.610529,1.577061,-0.179343}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.040 A}
+{plotter:0.985758,-0.168173,0.251612,-1.719903,1.392755,-0.424038}
+{voltage:the vol is 3.313 V}
+{current:the cur is 0.029 A}
+{plotter:0.909304,-0.416133,0.075024,-1.743583,1.356879,-0.445133}
+{voltage:the vol is 3.400 V}
+{current:the cur is 0.023 A}
+{plotter:0.771626,-0.636076,-0.140827,-1.684080,1.062974,-0.895106}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.021 A}
+{plotter:0.581996,-0.813192,-0.384615,-1.548607,0.673290,-1.462860}
+{voltage:the vol is 3.367 V}
+{current:the cur is 0.026 A}
+{plotter:0.353179,-0.935556,-0.642147,-1.348505,0.437384,-1.067114}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.018 A}
+{plotter:0.100584,-0.994929,-0.897259,-1.098426,0.063644,-1.257613}
+{voltage:the vol is 3.378 V}
+{current:the cur is 0.048 A}
+{plotter:-0.158785,-0.987313,-1.132880,-0.815311,-0.367269,-1.879478}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.024 A}
+{plotter:-0.407462,-0.913222,-1.332170,-0.517246,-0.487531,-0.990462}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.014 A}
+{plotter:-0.628705,-0.777644,-1.479686,-0.222277,-1.025050,-1.316043}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.046 A}
+{plotter:-0.807617,-0.589708,-1.562473,0.052761,-1.216020,-1.269831}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.035 A}
+{plotter:-0.932152,-0.362066,-1.571014,0.293291,-1.572436,-0.807302}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.043 A}
+{plotter:-0.993926,-0.110047,-1.499978,0.487875,-1.640113,-0.479620}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.043 A}
+{plotter:-0.988780,0.149382,-1.348701,0.628858,-1.764020,0.147218}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.001 A}
+{plotter:-0.917058,0.398753,-1.121377,0.712740,-1.281679,0.355466}
+{voltage:the vol is 3.313 V}
+{current:the cur is 0.018 A}
+{plotter:-0.783592,0.621276,-0.826929,0.740255,-1.193467,0.593897}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.048 A}
+{plotter:-0.597366,0.801969,-0.478581,0.716151,-1.034691,0.875084}
+{voltage:the vol is 3.324 V}
+{current:the cur is 0.031 A}
+{plotter:-0.370920,0.928665,-0.093139,0.648701,-0.474674,0.966661}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.046 A}
+{plotter:-0.119500,0.992834,0.309965,0.548964,-0.591809,1.194519}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.036 A}
+{plotter:0.139966,0.990156,0.709811,0.429878,-0.155410,1.284217}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.012 A}
+{plotter:0.390008,0.920811,1.085234,0.305217,0.106524,1.487248}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.027 A}
+{plotter:0.613791,0.789468,1.416098,0.188516,0.230563,1.401672}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.028 A}
+{plotter:0.796248,0.604971,1.684519,0.092023,0.456303,0.678462}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.038 A}
+{plotter:0.925093,0.379740,1.875947,0.025761,0.694511,0.438184}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.021 A}
+{plotter:0.991652,0.128942,1.980062,-0.003242,0.841532,0.722616}
+{voltage:the vol is 3.322 V}
+{current:the cur is 0.019 A}
+{plotter:0.991443,-0.130538,1.991393,0.008506,0.993074,0.470830}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.036 A}
+{plotter:0.924481,-0.381228,1.909650,0.060689,0.970777,0.327575}
+{voltage:the vol is 3.375 V}
+{current:the cur is 0.042 A}
+{plotter:0.795273,-0.606251,1.739732,0.149185,0.998077,-0.586651}
+{voltage:the vol is 3.350 V}
+{current:the cur is 0.029 A}
+{plotter:0.612520,-0.790455,1.491408,0.266367,0.848334,-0.291023}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.041 A}
+{plotter:0.388526,-0.921438,1.178710,0.401657,0.816901,-0.548568}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.004 A}
+{plotter:0.138373,-0.990380,0.819054,0.542308,0.550976,-0.695772}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.035 A}
+{plotter:-0.121097,-0.992641,0.432165,0.674359,0.411395,-0.819657}
+{voltage:the vol is 3.359 V}
+{current:the cur is 0.016 A}
+{plotter:-0.372414,-0.928067,0.038867,0.783694,0.264477,-0.615568}
+{voltage:the vol is 3.371 V}
+{current:the cur is 0.028 A}
+{plotter:-0.598656,-0.801006,-0.340183,0.857129,-0.402368,-0.691628}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.019 A}
+{plotter:-0.784590,-0.620014,-0.685727,0.883453,0.112480,-0.542353}
+{voltage:the vol is 3.400 V}
+{current:the cur is 0.039 A}
+{plotter:-0.917699,-0.397277,-0.981048,0.854349,-0.209203,-0.406584}
+{voltage:the vol is 3.348 V}
+{current:the cur is 0.040 A}
+{plotter:-0.989019,-0.147791,-1.212913,0.765124,-0.469931,-0.324641}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.021 A}
+{plotter:-0.993748,0.111646,-1.372295,0.615201,-0.830083,-0.212927}
+{voltage:the vol is 3.398 V}
+{current:the cur is 0.029 A}
+{plotter:-0.931569,0.363565,-1.454803,0.408334,-0.913858,-0.146703}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.005 A}
+{plotter:-0.806667,0.591006,-1.460818,0.152516,-0.360932,0.493344}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.000 A}
+{plotter:-0.627452,0.778655,-1.395301,-0.140396,-0.182723,0.033631}
+{voltage:the vol is 3.331 V}
+{current:the cur is 0.027 A}
+{plotter:-0.405992,0.913877,-1.267327,-0.455344,-0.256079,0.349554}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.045 A}
+{plotter:-0.157196,0.987567,-1.089347,-0.774955,0.109845,0.093536}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.033 A}
+{plotter:0.102184,0.994765,-0.876247,-1.080616,0.210410,0.518703}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.036 A}
+{plotter:0.354684,0.934986,-0.644274,-1.353642,0.367196,0.500459}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.021 A}
+{plotter:0.583303,0.812254,-0.409887,-1.576494,0.579581,0.513664}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.001 A}
+{plotter:0.772649,0.634834,-0.188633,-1.733930,0.614736,0.077990}
+{voltage:the vol is 3.343 V}
+{current:the cur is 0.014 A}
+{plotter:0.909972,0.414670,0.005902,-1.814042,0.537500,-0.481730}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.039 A}
+{plotter:0.986027,0.166586,0.162964,-1.809090,0.769746,-0.051846}
+{voltage:the vol is 3.319 V}
+{current:the cur is 0.007 A}
+{plotter:0.995693,-0.092714,0.275302,-1.716084,0.797806,-0.097418}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.008 A}
+{plotter:0.938319,-0.345771,0.339561,-1.537077,0.634906,-0.757484}
+{voltage:the vol is 3.395 V}
+{current:the cur is 0.050 A}
+{plotter:0.817768,-0.575548,0.356404,-1.279133,0.173405,-0.708394}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.004 A}
+{plotter:0.642157,-0.766573,0.330330,-0.953985,-0.084793,-0.958378}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.017 A}
+{plotter:0.423310,-0.905985,0.269228,-0.577393,0.421471,-1.035267}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.012 A}
+{plotter:0.175962,-0.984397,0.183679,-0.168244,-0.785434,-0.982308}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.049 A}
+{plotter:-0.083234,-0.996530,0.086081,0.252549,-0.619072,-0.841482}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.041 A}
+{plotter:-0.336826,-0.941567,-0.010371,0.663282,-0.757812,-0.668991}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.027 A}
+{plotter:-0.567740,-0.823208,-0.092736,1.042743,-1.273564,-0.422861}
+{voltage:the vol is 3.388 V}
+{current:the cur is 0.047 A}
+{plotter:-0.760427,-0.649423,-0.149378,1.371476,-1.320439,-0.298126}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.037 A}
+{plotter:-0.901916,-0.431912,-0.170905,1.632926,-1.424306,-0.098834}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.027 A}
+{plotter:-0.982678,-0.185321,-0.150947,1.814409,-1.167444,0.312113}
+{voltage:the vol is 3.312 V}
+{current:the cur is 0.005 A}
+{plotter:-0.997277,0.073748,-0.086718,1.907836,-1.247509,0.225031}
+{voltage:the vol is 3.350 V}
+{current:the cur is 0.047 A}
+{plotter:-0.944729,0.327851,0.020691,1.910150,-0.999109,0.551182}
+{voltage:the vol is 3.346 V}
+{current:the cur is 0.015 A}
+{plotter:-0.828573,0.559880,0.166297,1.823444,-0.873583,1.211114}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.012 A}
+{plotter:-0.656630,0.754213,0.341505,1.654764,-0.604375,0.779009}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.019 A}
+{plotter:-0.440475,0.897765,0.534651,1.415602,-0.384006,1.078851}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.047 A}
+{plotter:-0.194664,0.980870,0.731788,1.121115,0.139108,1.333785}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.012 A}
+{plotter:0.064254,0.997934,0.917646,0.789137,0.518519,1.467641}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.030 A}
+{plotter:0.318846,0.947806,1.076715,0.439022,0.701108,1.560147}
+{voltage:the vol is 3.341 V}
+{current:the cur is 0.049 A}
+{plotter:0.551970,0.833864,1.194369,0.090428,0.661125,1.239747}
+{voltage:the vol is 3.395 V}
+{current:the cur is 0.041 A}
+{plotter:0.747930,0.663777,1.257949,-0.237912,1.280010,1.071456}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.041 A}
+{plotter:0.893533,0.448998,1.257748,-0.529317,1.075805,0.666436}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.001 A}
+{plotter:0.978973,0.203989,1.187798,-0.770148,1.821636,0.274430}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.034 A}
+{plotter:0.998500,-0.054755,1.046438,-0.950562,1.831673,-0.020565}
+{voltage:the vol is 3.353 V}
+{current:the cur is 0.038 A}
+{plotter:0.950798,-0.309813,0.836587,-1.065008,1.309621,-0.312322}
+{voltage:the vol is 3.308 V}
+{current:the cur is 0.011 A}
+{plotter:0.839078,-0.544010,0.565725,-1.112432,0.891890,-0.759768}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.038 A}
+{plotter:0.670864,-0.741580,0.245564,-1.096165,1.045900,-1.092495}
+{voltage:the vol is 3.368 V}
+{current:the cur is 0.036 A}
+{plotter:0.457481,-0.889219,-0.108573,-1.023535,1.029988,-1.026297}
+{voltage:the vol is 3.340 V}
+{current:the cur is 0.020 A}
+{plotter:0.213296,-0.976988,-0.478612,-0.905203,0.773949,-1.301540}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.024 A}
+{plotter:-0.045251,-0.998976,-0.844800,-0.754298,0.073377,-1.629182}
+{voltage:the vol is 3.318 V}
+{current:the cur is 0.004 A}
+{plotter:-0.300751,-0.953703,-1.186897,-0.585395,0.159473,-1.335427}
+{voltage:the vol is 3.300 V}
+{current:the cur is 0.042 A}
+{plotter:-0.536001,-0.844217,-1.485419,-0.413417,-0.375233,-1.565343}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.046 A}
+{plotter:-0.735163,-0.677891,-1.722863,-0.252538,-0.601204,-1.241447}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.042 A}
+{plotter:-0.884826,-0.465922,-1.884811,-0.115160,-0.885412,-0.511516}
+{voltage:the vol is 3.398 V}
+{current:the cur is 0.018 A}
+{plotter:-0.974914,-0.222583,-1.960863,-0.011035,-1.140175,-0.603218}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.023 A}
+{plotter:-0.999361,0.035743,-1.945323,0.053399,-1.039561,-0.588181}
+{voltage:the vol is 3.311 V}
+{current:the cur is 0.008 A}
+{plotter:-0.956521,0.291662,-1.837597,0.075446,-1.216170,-0.493554}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.032 A}
+{plotter:-0.849280,0.527943,-1.642277,0.056282,-1.235076,-0.209198}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.011 A}
+{plotter:-0.684856,0.728679,-1.368904,0.000808,-0.730135,0.646635}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.036 A}
+{plotter:-0.474321,0.880352,-1.031413,-0.082772,-0.508814,0.704793}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.041 A}
+{plotter:-0.231850,0.972752,-0.647324,-0.183624,-0.577903,0.866636}
+{voltage:the vol is 3.316 V}
+{current:the cur is 0.033 A}
+{plotter:0.026231,0.999656,-0.236688,-0.289151,-0.557423,0.776462}
+{voltage:the vol is 3.326 V}
+{current:the cur is 0.033 A}
+{plotter:0.282546,0.959254,0.179101,-0.385992,-0.476444,0.919567}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.036 A}
+{plotter:0.519838,0.854265,0.578590,-0.461085,0.445258,0.866167}
+{voltage:the vol is 3.337 V}
+{current:the cur is 0.023 A}
+{plotter:0.722129,0.691759,0.941532,-0.502725,0.640664,0.883200}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.003 A}
+{plotter:0.875799,0.482677,1.250078,-0.501519,0.442691,0.624418}
+{voltage:the vol is 3.337 V}
+{current:the cur is 0.008 A}
+{plotter:0.970501,0.241096,1.489805,-0.451197,0.832430,0.436221}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.028 A}
+{plotter:0.999860,-0.016718,1.650520,-0.349200,0.272913,0.000697}
+{voltage:the vol is 3.377 V}
+{current:the cur is 0.039 A}
+{plotter:0.961899,-0.273406,1.726789,-0.197009,0.819805,0.079638}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.032 A}
+{plotter:0.859173,-0.511685,1.718160,-0.000187,0.398536,-0.181036}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.042 A}
+{plotter:0.698599,-0.715513,1.629073,0.231874,0.526640,0.091179}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.023 A}
+{plotter:0.490989,-0.871166,1.468459,0.486481,0.285858,-0.044104}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.029 A}
+{plotter:0.250320,-0.968163,1.249058,0.748417,0.209669,-0.592345}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.044 A}
+{plotter:-0.007202,-0.999974,0.986515,1.000919,0.042517,-0.851312}
+{voltage:the vol is 3.352 V}
+{current:the cur is 0.027 A}
+{plotter:-0.264240,-0.964457,0.698301,1.226780,-0.083702,-0.651258}
+{voltage:the vol is 3.306 V}
+{current:the cur is 0.049 A}
+{plotter:-0.503486,-0.864003,0.402543,1.409515,-0.260215,-0.685131}
+{voltage:the vol is 3.327 V}
+{current:the cur is 0.001 A}
+{plotter:-0.708833,-0.705376,0.116837,1.534503,-0.174689,-0.102383}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.007 A}
+{plotter:-0.866454,-0.499257,-0.142876,1.590032,-0.777791,-0.140526}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.050 A}
+{plotter:-0.965737,-0.259522,-0.363297,1.568177,-0.867547,-0.234646}
+{voltage:the vol is 3.332 V}
+{current:the cur is 0.001 A}
+{plotter:-0.999997,-0.002314,-0.534552,1.465443,-0.980954,0.100642}
+{voltage:the vol is 3.389 V}
+{current:the cur is 0.035 A}
+{plotter:-0.966928,0.255050,-0.650728,1.283128,-0.553165,0.420055}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.036 A}
+{plotter:-0.868755,0.495242,-0.710124,1.027387,-0.778480,0.639984}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.045 A}
+{plotter:-0.712090,0.702089,-0.715202,0.708978,-0.481676,0.701303}
+{voltage:the vol is 3.325 V}
+{current:the cur is 0.002 A}
+{plotter:-0.507479,0.861664,-0.672253,0.342705,0.470093,0.732096}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.035 A}
+{plotter:-0.268700,0.963224,-0.590799,-0.053399,0.119349,0.718723}
+{voltage:the vol is 3.386 V}
+{current:the cur is 0.049 A}
+{plotter:-0.011830,0.999930,-0.482775,-0.459116,0.172130,0.679839}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.004 A}
+{plotter:0.245837,0.969311,-0.361559,-0.853234,0.261887,0.806372}
+{voltage:the vol is 3.371 V}
+{current:the cur is 0.007 A}
+{plotter:0.486952,0.873429,-0.240908,-1.214812,0.631916,0.425588}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.044 A}
+{plotter:0.695281,0.718738,-0.133885,-1.524446,1.229615,0.233846}
+{voltage:the vol is 3.391 V}
+{current:the cur is 0.027 A}
+{plotter:0.856796,0.515656,-0.051850,-1.765442,1.155989,-0.387167}
+{voltage:the vol is 3.317 V}
+{current:the cur is 0.032 A}
+{plotter:0.960623,0.277854,-0.003586,-1.924833,1.170644,-0.297047}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.010 A}
+{plotter:0.999772,0.021344,0.005378,-1.994166,1.008682,-0.385311}
+{voltage:the vol is 3.357 V}
+{current:the cur is 0.042 A}
+{plotter:0.971607,-0.236602,-0.026799,-1.970012,0.929722,-0.637646}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.015 A}
+{plotter:0.878023,-0.478619,-0.098114,-1.854160,0.695958,-0.567632}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.050 A}
+{plotter:0.725322,-0.688410,-0.202853,-1.653497,0.450556,-0.749312}
+{voltage:the vol is 3.329 V}
+{current:the cur is 0.049 A}
+{plotter:0.523786,-0.851850,-0.331998,-1.379569,0.363266,-1.683579}
+{voltage:the vol is 3.395 V}
+{current:the cur is 0.007 A}
+{plotter:0.286983,-0.957936,-0.473883,-1.047848,-0.129015,-1.716572}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.035 A}
+{plotter:0.030857,-0.999524,-0.615064,-0.676778,-0.281056,-1.242185}
+{voltage:the vol is 3.322 V}
+{current:the cur is 0.006 A}
+{plotter:-0.227346,-0.973814,-0.741321,-0.286629,-0.715295,-1.463696}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.016 A}
+{plotter:-0.470242,-0.882538,-0.838742,0.101741,-0.947893,-1.006717}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.020 A}
+{plotter:-0.681476,-0.731840,-0.894803,0.468150,-1.029548,-0.874366}
+{voltage:the vol is 3.355 V}
+{current:the cur is 0.036 A}
+{plotter:-0.846827,-0.531868,-0.899365,0.794289,-1.343897,-0.560299}
+{voltage:the vol is 3.397 V}
+{current:the cur is 0.028 A}
+{plotter:-0.955162,-0.296085,-0.845528,1.064795,-1.090363,-0.284298}
+{voltage:the vol is 3.329 V}
+{current:the cur is 0.007 A}
+{plotter:-0.999185,-0.040367,-0.730265,1.268105,-1.835364,0.199204}
+{voltage:the vol is 3.349 V}
+{current:the cur is 0.019 A}
+{plotter:-0.975933,0.218069,-0.554806,1.397061,-1.017371,0.364095}
+{voltage:the vol is 3.318 V}
+{current:the cur is 0.002 A}
+{plotter:-0.886972,0.461822,-0.324722,1.449223,-0.918394,0.854113}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.030 A}
+{plotter:-0.738292,0.674481,-0.049717,1.426867,-0.781735,0.726176}
+{voltage:the vol is 3.333 V}
+{current:the cur is 0.034 A}
+{plotter:-0.539902,0.841728,0.256872,1.336677,-0.975198,1.238911}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.010 A}
+{plotter:-0.305161,0.952301,0.578841,1.189163,-0.748105,1.592903}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.011 A}
+{plotter:-0.049874,0.998756,0.898088,0.997835,-0.192397,1.469482}
+{voltage:the vol is 3.326 V}
+{current:the cur is 0.022 A}
+{plotter:0.208772,0.977964,1.195742,0.778198,0.151947,1.199262}
+{voltage:the vol is 3.346 V}
+{current:the cur is 0.028 A}
+{plotter:0.453361,0.891327,1.453361,0.546639,0.453536,1.519703}
+{voltage:the vol is 3.301 V}
+{current:the cur is 0.020 A}
+{plotter:0.667425,0.744677,1.654133,0.319283,0.668224,1.117896}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.037 A}
+{plotter:0.836552,0.547888,1.783997,0.110893,0.918565,0.789325}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.012 A}
+{plotter:0.949354,0.314209,1.832598,-0.066109,0.970877,1.083217}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.048 A}
+{plotter:0.998236,0.059375,1.794031,-0.202440,1.558892,0.439459}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.002 A}
+{plotter:0.979907,-0.199456,1.667307,-0.292507,1.336807,0.414939}
+{voltage:the vol is 3.363 V}
+{current:the cur is 0.010 A}
+{plotter:0.895601,-0.444859,1.456512,-0.334689,1.500154,-0.399598}
+{voltage:the vol is 3.379 V}
+{current:the cur is 0.013 A}
+{plotter:0.750994,-0.660309,1.170653,-0.331335,1.487068,-0.491469}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.032 A}
+{plotter:0.555823,-0.831300,0.823184,-0.288463,1.006170,-0.805435}
+{voltage:the vol is 3.302 V}
+{current:the cur is 0.045 A}
+{plotter:0.323229,-0.946321,0.431254,-0.215204,0.954785,-0.839136}
+{voltage:the vol is 3.366 V}
+{current:the cur is 0.020 A}
+{plotter:0.068872,-0.997626,0.014718,-0.123026,0.564710,-1.051695}
+{voltage:the vol is 3.343 V}
+{current:the cur is 0.004 A}
+{plotter:-0.190123,-0.981760,-0.405030,-0.024785,0.384675,-1.068689}
+{voltage:the vol is 3.325 V}
+{current:the cur is 0.011 A}
+{plotter:-0.436316,-0.899794,-0.806321,0.066311,-0.312415,-1.090301}
+{voltage:the vol is 3.381 V}
+{current:the cur is 0.027 A}
+{plotter:-0.653132,-0.757244,-1.168495,0.137770,-0.443120,-1.094438}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.024 A}
+{plotter:-0.825974,-0.563709,-1.473129,0.178818,-0.697103,-0.611050}
+{voltage:the vol is 3.347 V}
+{current:the cur is 0.028 A}
+{plotter:-0.943202,-0.332220,-1.705117,0.181287,-0.806124,-0.930065}
+{voltage:the vol is 3.303 V}
+{current:the cur is 0.007 A}
+{plotter:-0.996925,-0.078362,-1.853544,0.140306,-0.731164,-0.818986}
+{voltage:the vol is 3.306 V}
+{current:the cur is 0.025 A}
+{plotter:-0.983525,0.180772,-1.912302,0.054749,-0.859586,-0.047235}
+{voltage:the vol is 3.318 V}
+{current:the cur is 0.002 A}
+{plotter:-0.903905,0.427734,-1.880392,-0.072582,-0.694210,-0.095809}
+{voltage:the vol is 3.350 V}
+{current:the cur is 0.005 A}
+{plotter:-0.763425,0.645897,-1.761920,-0.235071,-0.761736,-0.250332}
+{voltage:the vol is 3.314 V}
+{current:the cur is 0.048 A}
+{plotter:-0.571543,0.820572,-1.565765,-0.422679,-0.585227,0.316528}
+{voltage:the vol is 3.398 V}
+{current:the cur is 0.015 A}
+{plotter:-0.341180,0.939998,-1.304959,-0.622599,-0.540374,0.322058}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.014 A}
+{plotter:-0.087845,0.996134,-0.995814,-0.820124,-0.242406,0.170159}
+{voltage:the vol is 3.323 V}
+{current:the cur is 0.036 A}
+{plotter:0.171404,0.985201,-0.656855,-0.999664,-0.130649,0.430062}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.014 A}
+{plotter:0.419113,0.907934,-0.307636,-1.145862,0.395425,0.794043}
+{voltage:the vol is 3.371 V}
+{current:the cur is 0.036 A}
+{plotter:0.638603,0.769536,0.032493,-1.244713,0.017193,0.556629}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.004 A}
+{plotter:0.815096,0.579326,0.345579,-1.284613,0.214589,0.517367}
+{voltage:the vol is 3.313 V}
+{current:the cur is 0.009 A}
+{plotter:0.936709,0.350110,0.616143,-1.257275,-0.007713,0.117044}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.004 A}
+{plotter:0.995253,0.097320,0.832076,-1.158431,0.527804,0.096190}
+{voltage:the vol is 3.395 V}
+{current:the cur is 0.040 A}
+{plotter:0.986787,-0.162021,0.985294,-0.988281,0.170418,-0.162986}
+{voltage:the vol is 3.318 V}
+{current:the cur is 0.010 A}
+{plotter:0.911881,-0.410454,1.072111,-0.751652,0.205559,-0.301124}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.005 A}
+{plotter:0.775578,-0.631251,1.093313,-0.457843,0.720627,-0.467783}
+{voltage:the vol is 3.369 V}
+{current:the cur is 0.032 A}
+{plotter:0.587056,-0.809546,1.053934,-0.120178,0.160859,-0.410691}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.001 A}
+{plotter:0.359007,-0.933335,0.962739,0.244724,-0.387236,-0.523453}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.017 A}
+{plotter:0.106787,-0.994282,0.831481,0.617907,-0.165712,-0.482637}
+{voltage:the vol is 3.383 V}
+{current:the cur is 0.006 A}
+{plotter:-0.152624,-0.988284,0.673958,0.979206,-0.373632,-0.635851}
+{voltage:the vol is 3.337 V}
+{current:the cur is 0.043 A}
+{plotter:-0.401758,-0.915746,0.504955,1.308471,-0.620748,-0.712692}
+{voltage:the vol is 3.331 V}
+{current:the cur is 0.021 A}
+{plotter:-0.623842,-0.781550,0.339136,1.586821,-0.773289,-0.189016}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.014 A}
+{plotter:-0.803923,-0.594733,0.189974,1.797820,-0.845454,-0.456206}
+{voltage:the vol is 3.394 V}
+{current:the cur is 0.047 A}
+{plotter:-0.929876,-0.367873,0.068778,1.928531,-0.913567,0.559770}
+{voltage:the vol is 3.372 V}
+{current:the cur is 0.012 A}
+{plotter:-0.993221,-0.116243,-0.016094,1.970347,-0.973037,0.367086}
+{voltage:the vol is 3.330 V}
+{current:the cur is 0.035 A}
+{plotter:-0.989692,0.143212,-0.059812,1.919572,-0.974873,0.844361}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.002 A}
+{plotter:-0.919527,0.393026,-0.061371,1.777684,-0.572187,1.109339}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.028 A}
+{plotter:-0.787451,0.616377,-0.023605,1.551297,-0.526373,1.139835}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.002 A}
+{plotter:-0.602356,0.798227,0.047074,1.251786,-0.304263,0.813508}
+{voltage:the vol is 3.374 V}
+{current:the cur is 0.021 A}
+{plotter:-0.376705,0.926333,0.141216,0.894625,-0.083321,1.264980}
+{voltage:the vol is 3.305 V}
+{current:the cur is 0.047 A}
+{plotter:-0.125690,0.992070,0.247089,0.498468,0.152740,1.247566}
+{voltage:the vol is 3.393 V}
+{current:the cur is 0.017 A}
+{plotter:0.133788,0.991010,0.351612,0.084036,0.266692,1.139413}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.024 A}
+{plotter:0.384258,0.923226,0.441395,-0.327121,1.275100,0.938729}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.002 A}
+{plotter:0.608856,0.793281,0.503801,-0.713910,1.222070,0.766125}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.041 A}
+{plotter:0.792459,0.609925,0.527978,-1.056940,1.624319,0.411364}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.007 A}
+{plotter:0.922707,0.385502,0.505761,-1.339653,1.377741,0.239692}
+{voltage:the vol is 3.351 V}
+{current:the cur is 0.036 A}
+{plotter:0.990829,0.135124,0.432393,-1.549265,0.992044,-0.382767}
+{voltage:the vol is 3.391 V}
+{current:the cur is 0.002 A}
+{plotter:0.992238,-0.124352,0.307011,-1.677466,1.608052,-0.138969}
+{voltage:the vol is 3.365 V}
+{current:the cur is 0.003 A}
+{plotter:0.926841,-0.375455,0.132858,-1.720823,1.058162,-0.678078}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.020 A}
+{plotter:0.799039,-0.601279,-0.082801,-1.680879,1.096846,-1.214856}
+{voltage:the vol is 3.392 V}
+{current:the cur is 0.008 A}
+{plotter:0.617438,-0.786619,-0.329047,-1.563923,0.834990,-0.819086}
+{voltage:the vol is 3.300 V}
+{current:the cur is 0.007 A}
+{plotter:0.394265,-0.918997,-0.591953,-1.380484,0.471862,-0.949064}
+{voltage:the vol is 3.390 V}
+{current:the cur is 0.037 A}
+{plotter:0.144547,-0.989498,-0.855446,-1.144540,0.144827,-1.332463}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.016 A}
+{plotter:-0.114904,-0.993377,-1.102350,-0.872542,-0.182860,-1.409938}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.021 A}
+{plotter:-0.366618,-0.930371,-1.315527,-0.582290,-0.378714,-1.038013}
+{voltage:the vol is 3.354 V}
+{current:the cur is 0.018 A}
+{plotter:-0.593648,-0.804725,-1.479043,-0.291746,-0.596684,-0.923346}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.042 A}
+{plotter:-0.780708,-0.624896,-1.579284,-0.017868,-1.163149,-1.378507}
+{voltage:the vol is 3.352 V}
+{current:the cur is 0.001 A}
+{plotter:-0.915203,-0.402993,-1.605941,0.224465,-1.052952,-0.439356}
+{voltage:the vol is 3.358 V}
+{current:the cur is 0.026 A}
+{plotter:-0.988078,-0.153956,-1.552796,0.423359,-1.005809,-0.317493}
+{voltage:the vol is 3.342 V}
+{current:the cur is 0.005 A}
+{plotter:-0.994425,0.105446,-1.418260,0.570590,-1.612745,0.078153}
+{voltage:the vol is 3.310 V}
+{current:the cur is 0.012 A}
+{plotter:-0.933818,0.357748,-1.205614,0.662022,-1.137673,0.315179}
+{voltage:the vol is 3.309 V}
+{current:the cur is 0.027 A}
+{plotter:-0.810337,0.585964,-0.922940,0.697734,-1.032736,0.579191}
+{voltage:the vol is 3.340 V}
+{current:the cur is 0.003 A}
+{plotter:-0.632297,0.774727,-0.582742,0.681851,-1.605647,0.795343}
+{voltage:the vol is 3.338 V}
+{current:the cur is 0.019 A}
+{plotter:-0.411683,0.911327,-0.201276,0.622091,-0.462463,1.030057}
+{voltage:the vol is 3.319 V}
+{current:the cur is 0.048 A}
+{plotter:-0.163352,0.986568,0.202370,0.529074,-0.954838,1.259506}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.005 A}
+{plotter:0.095978,0.995383,0.607388,0.415432,-0.320118,1.500941}
+{voltage:the vol is 3.315 V}
+{current:the cur is 0.010 A}
+{plotter:0.348846,0.937180,0.992484,0.294791,0.121375,1.065625}
+{voltage:the vol is 3.356 V}
+{current:the cur is 0.043 A}
+{plotter:0.578226,0.815876,1.337150,0.180697,0.171843,1.203572}
+{voltage:the vol is 3.328 V}
+{current:the cur is 0.009 A}
+{plotter:0.768674,0.639640,1.622908,0.085559,0.269776,0.975421}
+{voltage:the vol is 3.352 V}
+{current:the cur is 0.006 A}
+{plotter:0.907368,0.420337,1.834428,0.019691,0.834930,0.957385}
+{voltage:the vol is 3.339 V}
+{current:the cur is 0.048 A}
+{plotter:0.984969,0.172733,1.960453,-0.009485,0.971053,0.490292}
+{voltage:the vol is 3.320 V}
+{current:the cur is 0.001 A}
+{plotter:0.996252,-0.086502,1.994484,0.001980,0.967202,-0.045527}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.023 A}
+{plotter:0.940457,-0.339912,1.935163,0.054249,1.036491,0.474291}
+{voltage:the vol is 3.373 V}
+{current:the cur is 0.019 A}
+{plotter:0.821342,-0.570436,1.786339,0.143656,0.943303,0.294401}
+{voltage:the vol is 3.370 V}
+{current:the cur is 0.011 A}
+{plotter:0.646926,-0.762553,1.556815,0.262963,0.914509,-0.232231}
+{voltage:the vol is 3.321 V}
+{current:the cur is 0.014 A}
+{plotter:0.428952,-0.903327,1.259784,0.401879,0.952578,-0.341114}
+{voltage:the vol is 3.376 V}
+{current:the cur is 0.041 A}
+{plotter:0.182098,-0.983280,0.912003,0.547808,0.716115,-0.319021}
+{voltage:the vol is 3.360 V}
+{current:the cur is 0.012 A}
+{plotter:-0.077018,-0.997030,0.532749,0.686785,0.661212,-0.722489}
+{voltage:the vol is 3.335 V}
+{current:the cur is 0.044 A}
+{plotter:-0.330947,-0.943649,0.142631,0.804526,-0.032507,-0.475375}
+{voltage:the vol is 3.382 V}
+{current:the cur is 0.005 A}
+{plotter:-0.562595,-0.826733,-0.237669,0.887520,-0.463019,-0.680756}
+{voltage:the vol is 3.306 V}
+{current:the cur is 0.041 A}
+{plotter:-0.756362,-0.654153,-0.588642,0.924082,-0.024425,-0.512236}
+{voltage:the vol is 3.387 V}
+{current:the cur is 0.028 A}
+{plotter:-0.899204,-0.437529,-0.893105,0.905304,-0.532562,-0.435548}
+{voltage:the vol is 3.385 V}
+{current:the cur is 0.001 A}
+{plotter:-0.981503,-0.191446,-1.137185,0.825822,-0.003674,-0.333777}
+{voltage:the vol is 3.319 V}
+{current:the cur is 0.007 A}
+{plotter:-0.997717,0.067527,-1.311082,0.684353,-0.463967,0.059665}
+{voltage:the vol is 3.340 V}
+{current:the cur is 0.040 A}
+{plotter:-0.946756,0.321953,-1.409555,0.483956,-0.129415,0.219498}
+{voltage:the vol is 3.304 V}
+{current:the cur is 0.002 A}
+{plotter:-0.832049,0.554702,-1.432102,0.231996,-0.581932,0.374578}
+{voltage:the vol is 3.364 V}
+{current:the cur is 0.049 A}
+{plotter:-0.661321,0.750103,-1.382833,-0.060192,-0.234051,0.599556}
+{voltage:the vol is 3.307 V}
+{current:the cur is 0.018 A}
+{plotter:-0.446066,0.895000,-1.270047,-0.377915,0.104245,0.210935}
+{voltage:the vol is 3.331 V}
+{current:the cur is 0.046 A}
+{plotter:-0.200777,0.979637,-1.105538,-0.703983,0.186914,0.824706}
+{voltage:the vol is 3.399 V}
+{current:the cur is 0.010 A}
+{plotter:0.058029,0.998315,-0.903697,-1.019756,0.250917,0.056341}
+{voltage:the vol is 3.371 V}
+{current:the cur is 0.023 A}
+{plotter:0.312929,0.949777,-0.680449,-1.306307,0.317312,0.627028}
+{voltage:the vol is 3.337 V}
+{current:the cur is 0.007 A}
+{plotter:0.546759,0.837290,-0.452124,-1.545642,0.513782,0.662066}
+{voltage:the vol is 3.361 V}
+{current:the cur is 0.012 A}
+{plotter:0.743776,0.668429,-0.234320,-1.721872,0.658721,0.182023}
+{voltage:the vol is 3.359 V}
+{current:the cur is 0.028 A}
+{plotter:0.890715,0.454562,-0.040849,-1.822279,0.711639,-0.395578}
+{voltage:the vol is 3.318 V}
+{current:the cur is 0.038 A}
+{plotter:0.977682,0.210091,0.117170,-1.838194,0.725618,-0.172330}
+{voltage:the vol is 3.384 V}
+{current:the cur is 0.021 A}
+{plotter:0.998822,-0.048527,0.232011,-1.765633,0.718170,-0.340934}
+{voltage:the vol is 3.313 V}
+{current:the cur is 0.000 A}
+{plotter:0.952711,-0.303877,0.299786,-1.605637,0.305041,-0.821044}
+{voltage:the vol is 3.334 V}
+{current:the cur is 0.039 A}
+{plotter:0.842455,-0.538767,0.320600,-1.364310,0.609535,-0.915518}
+{voltage:the vol is 3.396 V}
+{current:the cur is 0.039 A}
+{plotter:0.675476,-0.737382,0.298428,-1.052524,0.418566,-0.964425}
+{voltage:the vol is 3.363 V}
+{current:the cur is 0.042 A}
